@@ -1,0 +1,6 @@
+BOS CABLE   ASSEMBLY , EOS
+BOS 1 2 1 0 EOS
+translation: 1 2 1 2
+
+BOS CABLE   ASSEMBLY , 30 ; 30 - EOS
+BOS 1 2 1 0 1 0 1 0 EOS

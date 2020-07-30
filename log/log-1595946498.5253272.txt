@@ -1,0 +1,3924 @@
+BOS 1 , EOS
+BOS 1 0 EOS
+translation: 1 0
+
+BOS CABLE   ASSEMBLY   EOS
+BOS 1 2 1 0 EOS
+translation: 1 2 1 0
+
+BOS CABLE   ASSEMBLY , EOS
+BOS 1 2 1 0 EOS
+translation: 1 2 1 0
+
+BOS BINARY   COUNTER   EOS
+BOS 1 2 1 0 EOS
+translation: 1 2 1 0
+
+BOS 160 - CLEAR ; EOS
+BOS 1 0 1 0 EOS
+translation: 1 0
+
+BOS CONNECTOR   ACCESSORY - EOS
+BOS 1 2 1 0 EOS
+translation: 1 2 1 0
+
+BOS 565 , 50 . EOS
+BOS 1 0 1 0 EOS
+translation: 1 0 1 0
+
+BOS CABLE   ASSEMBLY , EOS
+BOS 1 2 1 0 EOS
+translation: 1 2 1 0
+
+BOS CABLE   ASSEMBLY   EOS
+BOS 1 2 1 0 EOS
+translation: 1 2 1 0
+
+BOS RING   TERMINAL ; EOS
+BOS 1 2 1 0 EOS
+translation: 1 2 1 0
+
+BOS DIP34   34 , EOS
+BOS 1 0 1 0 EOS
+translation: 1 0 1 0
+
+BOS SPLITTER / COUPLER ; EOS
+BOS 1 2 1 0 EOS
+translation: 1 2 1 0
+
+BOS 850 / 35 ; EOS
+BOS 1 0 1 0 EOS
+translation: 1 0
+
+BOS CONNECTOR   ACCESSORY , EOS
+BOS 1 2 1 0 EOS
+translation: 1 2 1 0
+
+BOS 1549 , - 27   EOS
+BOS 1 0 2 1 0 EOS
+translation: 1 0 1 0
+
+BOS THERMAL   CIRCUIT   BREAKER . EOS
+BOS 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0
+
+BOS CONNECTOR   ACCESSORY . BACKSHELL - EOS
+BOS 1 2 1 0 1 0 EOS
+translation: 1 2 1 0
+
+BOS 850 - 830 . 860 , EOS
+BOS 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0
+
+BOS SWITCH ; 780 - 55 . EOS
+BOS 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0
+
+BOS THERMAL   CIRCUIT   BREAKER / EOS
+BOS 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0
+
+BOS TOROIDAL   POWER   TRANSFORMER   EOS
+BOS 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0
+
+BOS 8   MALE - CABLE ; EOS
+BOS 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0
+
+BOS 1310   1270 - 1380 / EOS
+BOS 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0
+
+BOS 1 - 10 / 50 ; EOS
+BOS 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0
+
+BOS MAGNETIC   CIRCUIT   BREAKER / EOS
+BOS 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0
+
+BOS 15 / MALE - CABLE / EOS
+BOS 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0
+
+BOS THERMAL   CIRCUIT   BREAKER / EOS
+BOS 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0
+
+BOS DATA   LINE   FILTER . EOS
+BOS 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0
+
+BOS 850 / 830   860 ; EOS
+BOS 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0
+
+BOS 0 . 5 - ROUND   EOS
+BOS 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0
+
+BOS THERMAL   CIRCUIT   BREAKER , EOS
+BOS 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0
+
+BOS 1410 ; 1407 / UNK / EOS
+BOS 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0
+
+BOS THERMAL   CIRCUIT   BREAKER , EOS
+BOS 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0
+
+BOS ALUMINUM   ELECTROLYTIC   CAPACITOR , EOS
+BOS 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0
+
+BOS 1310 , 1270 ; 1355 / EOS
+BOS 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0
+
+BOS 1310 / 1260 , 1380 ; EOS
+BOS 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0
+
+BOS CABLE   ASSEMBLY - 30 - 30 / EOS
+BOS 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS 10   40 / 1 ; POLYCARBONATE / EOS
+BOS 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS IC   SOCKET ; PGA84 / 84 ; EOS
+BOS 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS CABLE   ASSEMBLY . 20 . 30 / EOS
+BOS 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS GAGE , 0 - 15000 ; CYLINDRICAL   EOS
+BOS 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS PGA84 , 84 . BERYLLIUM   COPPER / EOS
+BOS 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0
+
+BOS 3 . 3 ; 0 / 70   EOS
+BOS 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS 5   PPM / YEAR   CMOS   EOS
+BOS 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0
+
+BOS 0   18000 ; 11   20 - EOS
+BOS 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS 3 - 8 . 8 . 89 / EOS
+BOS 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0
+
+BOS 2594 . 1800 / 2100 - 1 . EOS
+BOS 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS IC   SOCKET / DIP24 / 24   EOS
+BOS 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS 3 . 3   0 ; 70 . EOS
+BOS 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS IC   SOCKET ; UNK   91 / EOS
+BOS 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK / EOS
+BOS 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0
+
+BOS LASER   DIODE   MODULE   EMITTER ; EOS
+BOS 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0
+
+BOS 55   MALE - MALE - PANEL ; EOS
+BOS 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS 29 ; 5 - SURFACE   MOUNT , EOS
+BOS 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0
+
+BOS 1 ; 11 , 1 / 300   EOS
+BOS 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS IGBTs , 8 - N - CHANNEL - EOS
+BOS 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0
+
+BOS 1 - 7   1 - 300   EOS
+BOS 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS 1 , 8 , NO - DIP   EOS
+BOS 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS 2   PPM / FIRST   YEAR ; EOS
+BOS 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0
+
+BOS 1 ; 4 , 30 - BOARD / EOS
+BOS 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS CABLE   ASSEMBLY   8 , 30 , EOS
+BOS 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS 8 - PNP . 3 . 1 / EOS
+BOS 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS IC   SOCKET / DIP46 / 46 . EOS
+BOS 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK / EOS
+BOS 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0
+
+BOS IC   SOCKET , PGA169 , 169 ; EOS
+BOS 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS CABLE   ASSEMBLY , 50 / 30 , EOS
+BOS 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL . 9 , EOS
+BOS 1 2 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0
+
+BOS 3 . 3 ; 0 . 70   EOS
+BOS 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS 3 . 3 - - 40 . 85   EOS
+BOS 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS 3 . 3 , - 40 . 85 / EOS
+BOS 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS 3 . 3   - 40 / 85 . EOS
+BOS 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS SCR , 2594 - 1620 - 1800 . 300   EOS
+BOS 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS 1 . 200 . 0 . DIFFUSED - SINGLE   EOS
+BOS 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0
+
+BOS 50 / 5600 , 1 . PANEL   MOUNT . EOS
+BOS 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0
+
+BOS 1   3 , 1 . 25   BOARD - EOS
+BOS 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS DIP36 - 36 . 2 . 54 ; 1   EOS
+BOS 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0
+
+BOS 18 / 10 / 10 / 50 ; 13   EOS
+BOS 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS R - PDSO - N6   6 / YES - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0
+
+BOS LINEAR   POSITION   SENSOR , MAGNETOSTRICTIVE , ABSOLUTE / EOS
+BOS 1 2 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0
+
+BOS PGA145   145   BERYLLIUM   COPPER   ALLOY - EOS
+BOS 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 2 1 0
+
+BOS 1 , DIFFUSED . SINGLE - PANEL   MOUNT ; EOS
+BOS 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0
+
+BOS ZENER   DIODE , 20 - 65 ; 2 , EOS
+BOS 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS RECTIFIER   DIODE . 0 . 05 , UNK   EOS
+BOS 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0
+
+BOS DFB   LASER   MODULE   EMITTER   1310   EOS
+BOS 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0
+
+BOS PGA169 / 169 / BE - CU   3 ; EOS
+BOS 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0
+
+BOS ZENER   DIODE   1 - 12 . 21 . EOS
+BOS 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS TRIAC   15 , 250   40 / 1   EOS
+BOS 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS PGA75 . 75   BRASS / PHOSPHOR   BRONZE   EOS
+BOS 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0
+
+BOS COMPOUND - 1 ; 0 / 10000 . CYLINDRICAL , EOS
+BOS 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS 0 . 5 . 3 . 875 , 5 / EOS
+BOS 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0
+
+BOS DIP56 / 56   BE - CU ; 1 - EOS
+BOS 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0
+
+BOS 5   77 . 8 / 86 . 5   EOS
+BOS 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0
+
+BOS SPLITTER / COUPLER ; 1550 , 1510 . 1590 , EOS
+BOS 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS PHASE   DETECTOR - 100 / 200 / 20 / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS POWER   SUPPLY   SUPPORT   CIRCUIT ; YES   EOS
+BOS 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0
+
+BOS 10   R - XDIP - T10 . HYBRID   EOS
+BOS 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 2 1 0 1 0
+
+BOS R - XDIP - T40 , 40 / NO , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0
+
+BOS 150 ; 3 . 3 / SURFACE   MOUNT . EOS
+BOS 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0
+
+BOS NOISE   SOURCE . 0 . 2 / 5000 . EOS
+BOS 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0
+
+BOS 9 , 2 ; MALE . 0 . 05 ; EOS
+BOS 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0
+
+BOS SCR ; 4239 - 1400 . 300 . 1 / EOS
+BOS 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS ZENER   DIODE - 5 ; 110   12 / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0
+
+BOS 1 . 100 ; 5 , SURFACE   MOUNT . EOS
+BOS 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0
+
+BOS 14 - 1   600 , 30 , BOARD   EOS
+BOS 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS 1 . 2 / 1   300   BOARD . EOS
+BOS 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0
+
+BOS IC   SOCKET ; PGA65 ; BE - CU / 3 / EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0
+
+BOS IC   SOCKET . UNK - 1 ; BERYLLIUM   COPPER ; EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS MIL   SERIES   CONNECTOR , 37 . MALE ; CRIMP , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS IC   SOCKET , PGA68 , 68 . BE - CU , EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 100 . 20 / 20   Radial   POLARIZED , ALUMINUM - EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0
+
+BOS 1 - 17 - 1 , 300 - 20   BOARD . EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 2 ; 1 . 800 . 0 . PANEL   MOUNT / EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0
+
+BOS 11 , FEMALE / BOARD   AND   PANEL . SOLDER ; EOS
+BOS 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS 200 , 111000   400 - 400 / 150   2 , EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0
+
+BOS SP8T / 3700   4200 , 1 . 5 / 30 ; EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SPDT . 2000 , 4000 - 1 . 3 . 30 - EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0
+
+BOS 5   66   1 ; 4 . YES . SSOP . EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 0 . 41 ; 0 . 2   1 / 120   EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0
+
+BOS 5 ; 19 . 4 ; 2 - 21 . 6 ; EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS DPST - LATCHED . 0 . 2 . 12 , WIRE . EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0
+
+BOS IC   SOCKET / SIP16 . 16 ; COPPER   ALLOY - EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0
+
+BOS 9760 , 0 . 25 - 100   0303 - SMT - EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS 4   FORM   C . 4PDT - LATCHED / AC - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0
+
+BOS 1611 ; 1260   1620 - 45 ; 1 . 6 . EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 67 - FEMALE . CABLE   AND   PANEL   SOLDER , EOS
+BOS 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS ZENER   DIODE . 1 / 110 ; 2 . 3 . EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 2 ; 1 - DIFFUSED - SINGLE . PANEL   MOUNT ; EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 0 . 5 - 1 . 2 , 50 . 14 / EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0
+
+BOS 240 ; 60 . 18 . PANEL   MOUNT , 2 - EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 1 . 5   1 , 320   12 ; BOARD / EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0
+
+BOS IC   SOCKET - SIP36 ; 36 . NOT   SPECIFIED   EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 3 ; 1 ; 300 / 13 . 5 - CABLE   EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0
+
+BOS 4PDT , LATCHED . 5 - 28 / WIRE   WRAP ; EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 0 / 3000 ; 6 - 127 - 46 . 99 / EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE / 1 ; 0 ; CYLINDRICAL . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0
+
+BOS FIXED   POSITIVE   SINGLE   OUTPUT   LDO   REGULATOR . EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0
+
+BOS CMOS ; 25 / SURFACE   MOUNT ; 15   pF , EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS 5 . 7 ; 1 . YES   3 - STATE - EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 16 ; MALE - BOARD   AND   PANEL   SOLDER   EOS
+BOS 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS 0 . 91 ; 2 . 85 / 2 - Ceramic , EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0
+
+BOS 5 ; 2 . 54 - HYBRID ; DFP ; 36 / EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0
+
+BOS IC   SOCKET , UNK . 673 . BE - CU , EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 2 . 5 . 0 . 13 ; SURFACE   MOUNT . EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 1 - 23   1 - 300 / 20 ; BOARD . EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 7000 , 0 . 5 ; 14 - 2 - DUAL ; EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0
+
+BOS IC   SOCKET / 224 ; BE - CU . 3 . EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0
+
+BOS 2 , 1 - 60 . 0   DIFFUSED ; SINGLE ; EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS IC   SOCKET . SIP15 , 15 . NOT   SPECIFIED / EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS ZENER   DIODE   0 . 5   11 - 20 / EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0
+
+BOS 0 . 1 ; 0 ; 1 - 6V   CYLINDRICAL - EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0
+
+BOS 314 ; 1000 . 1000   600 , 200 ; 1   EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0
+
+BOS GAGE , 0 - 5000 - 0 - 5V - CYLINDRICAL - EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 960   955 , 970 / 55 / 0 . 15 ; EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS DUAL   COLOR   LED - 2   1 - DIFFUSED . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0
+
+BOS 1 - 21 / 1 . 300 ; 15 . CABLE ; EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0
+
+BOS SIP57 . NOT   SPECIFIED   2 . 54 - 3 - EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0
+
+BOS SPLITTER / COUPLER - 780 , 55 / 3 . 5   EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 1 . 61 / 60 , 2   66 . 7 . EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS COMPOUND , - 1 ; 50   0 - 5V   CYLINDRICAL . EOS
+BOS 1 0 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 5 . 5 . 8 . - 40   85 , UNK , EOS
+BOS 1 2 1 0 1 0 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS ZENER   DIODE . 10 / 82 . 30 . DO - 4   EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS IC   SOCKET / PGA73 , 73 , 2 . 54 . 3 . EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS LASER   DIODE   MODULE   EMITTER / 1530 / 1527 . 1533 - EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS 2   1   540 . 0 ; DIFFUSED . PANEL   MOUNT   EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 85 . 25   5 , SURFACE   MOUNT . 6   TTL / EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS 1 - 17000 . 0 ; WATER   CLEAR / PANEL   MOUNT   EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS BINARY   COUNTER   87 ; 2   4 - YES . SOP - EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 16384   8 - 2KX8 . S - CQCC - J52 - CMOS - EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS 2   80 . 0   DIFFUSED . SINGLE ; PANEL   MOUNT , EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 2   1 ; 150 . 0   SINGLE ; PANEL   MOUNT   EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS MIL   SERIES   CONNECTOR . 30 ; MALE . PANEL ; SOLDER , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS 0 . 0037 ; 0 . 4 - Ceramic . 0201   Chip - EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK / 1 - 3 / 2 - EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS LASER   DIODE   MODULE   EMITTER ; 785 . 770 - 810 - EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS FIXED   ATTENUATOR ; 0 , 26500 / 6 ; 33 . 01 - EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 9 - 20 , 512X9 - R - CQCC - N32 . 5 / EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS D   SUBMINIATURE   CONNECTOR ; 37 , MALE ; BOARD . SOLDER . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS 6 . 7108864E7 ; 60 . 2MX32 / R - XSMA - N72 - EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS FIXED   ATTENUATOR ; 0 / 18000 . 8 ; 33 . 01 ; EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS 2 / 1 , WATER   CLEAR / SINGLE   PANEL   MOUNT   EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS D   FLIP - FLOP , 5 / 4 / NO / DIP - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS 880 . 0 . 2 , 60 , THROUGH   HOLE   MOUNT , EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 2 1 0
+
+BOS 0 . 25 - 0 - 300 , 4 - 20mA - CYLINDRICAL , EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 250 ; 50 , 3 . PANEL   MOUNT - 30 ; 1 / EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS 33 , 1 ; 2 , MALE . BOARD   SURFACE   MOUNT , EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS Power   Field - Effect   Transistors , N - CHANNEL . Single - EOS
+BOS 1 2 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED   DISPLAY   CLUSTER ; 1 / COMPLEX   EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 0 1 0
+
+BOS 2 . 147483648E9 / 16 . 128MX16 ; CMOS . 1 / 3   EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 2 ; 20 , 0 . 001 - 100 - 550 - 30 / EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS PGA256 - 256 ; BE - CU   2 . 54 ; 3 - EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS 4700 - 63 . 30 , 10 / Radial ; POLARIZED - ALUMINUM ; EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE   GAGE , 0 - 5V ; CIRCULAR ; EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS 2 ; 1 ; 850 . 0 - SINGLE / RADIAL   MOUNT ; EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS POTENTIOMETER / 3300 . 0 . 1 - CARBON ; Panel   Mount . EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS ZENER   DIODE , 1 . 25 . 1 . 4 , 2 ; EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS LVCMOS ; 133 - 20 . 3 . 3 . 15   pF   EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS ABSOLUTE   0 . 0 . 5 - 4 . 5V ; CYLINDRICAL . EOS
+BOS 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS MIL   SERIES   CONNECTOR - 100 / FEMALE ; CABLE ; CRIMP . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS 0 . 5 . 4 . 3 - 5 ; 2 . AXIAL / EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS 22 . 1184 - 10   0 . 001 ; 30 . 13 - EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS ABSOLUTE   0 . 25   0 . 203 . 05   ROUND - EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS RECTIFIER   DIODE   10 - 45 ; 3 ; TO - 220AB / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS HCMOS ; 200 . 50 . 5 . THROUGH   HOLE   MOUNT - EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE - 1 - 0 / 3000 , CYLINDRICAL - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS 250 . 0 . WATER   CLEAR . SINGLE , PANEL   MOUNT , EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS BOARD   CONNECTOR   FEMALE   BOARD . RIGHT   ANGLE - SOLDER / EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 20 / 2 . 8 , SURFACE   MOUNT - 15   pF , EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS D   SUBMINIATURE   CONNECTOR ; 37 . FEMALE / BOARD ; SOLDER , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS 14 . 3189 . 5 - SURFACE   MOUNT , 50   pF   EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE , COMPOUND - 1 - 5V , CYLINDRICAL / EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS LASER   DIODE   MODULE   EMITTER / 1350 . 1347 / 1353 . EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS 8 - R - PDIP - T40 / 15 . 24 , NO , EOS
+BOS 1 0 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS 5   2 , 4 , NO - DIP / 3 - STATE ; EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 1 . 12 / 1 , 300   17 . 5 , BOARD   EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS DFB   LASER   DIODE   EMITTER . 1290 / 1287 / 1293 - EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS ACTIVE   DELAY   LINE , 5 ; 1 ; NO , DIP , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS HCMOS / 0 . 015 . 65 / 5 , SURFACE   MOUNT - EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 1   7 . 62 , 16   R - CDIP - T16 - EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 2 1 0
+
+BOS 32 . 800 . S - CPGA - UNK ; 370   NO   EOS
+BOS 1 0 1 0 1 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS GAUGE , 0 . 1 , 0   5000 , 4 - 20mA - EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS COMPOUND ; 0 . 1 , - 14 . 7 - 4 - 20mA , EOS
+BOS 1 0 1 2 1 0 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS ROTARY   POSITION   ENCODER   1 , SINGLE ,   2   CHANNELS . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1
+
+BOS SLIDE   SWITCH - DPDT ; LATCHED , 6 , 28 / SOLDER . 40000 / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS MOMENTARY - 0 . 05 / PANEL   MOUNT ; SCREW / 0 . 1 , EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED ; 2 - 1 / 150 . 0   DIFFUSED - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS GAGE - 0 . 25 , 0 , 15000 ; 0 - 5V   CYLINDRICAL . EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS ROTARY   POSITION   SENSOR , HALL   EFFECT / 0 . 5 ; CYLINDRICAL / EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0
+
+BOS 3 . 3554432E7 , 8 , 4MX8 , R - XSMA - N30 . MOS - EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS THERMAL   CIRCUIT   BREAKER   240 . 60 ; PANEL   MOUNT , 2000 / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 100 - 4 . 6   10 - 2 . 5   1 , AXIAL / EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK   1 . 4   20 - BOARD / EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE   GAGE , 1 ; 0 , 5000 . CYLINDRICAL , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 1 / 7 . 88   20 . 32 , R - CDSO - G16 / EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 0
+
+BOS 16 . 777216   3 , SURFACE   MOUNT - 1   PPM / YEAR / EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 2 1 0
+
+BOS 2 - 1 - 5 . 0 - DIFFUSED   SINGLE , RADIAL   MOUNT . EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS TRANSISTOR   OUTPUT   OPTOCOUPLER , 0 . 05   SINGLE / SURFACE   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS GAGE / 0 . 5 / 0 . 2000 . 1 - 11V . CYLINDRICAL , EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED - 2 ; 1 / 100 . 0   SINGLE , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS GAUGE   0 . 1 - 0 / 100   1 - 6V , CYLINDRICAL ; EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE . GAGE . 1 . 0 - 5000   CYLINDRICAL , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS THERMAL   CIRCUIT   BREAKER . 240   60 ; PANEL   MOUNT , 2 - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 24 / 18 - 36 , 9 ; 11   3   NO - YES , EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 0 . 45 ; 20 . 0 . 7 , 1 . DUAL   ENDED ; EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS 2 , 2500 . 0 ; WATER   CLEAR . SINGLE , PANEL   MOUNT . EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 6 . 8 - 25 ; 20 ; 20 - Radial / POLARIZED ; ALUMINUM . EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 2 . 1   4 . 0   DIFFUSED - SINGLE / RADIAL   MOUNT . EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 8 - 12 . 0 - R - PDIP - T40 - 40   NO , EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0
+
+BOS SPST , 15 . 6 , 40 , 110 ; DC   AC / DC ; EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 2 - 0 . 02 / 1 ; 100 . 0 ; DIFFUSED - SINGLE   EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS 1000 - 5 / 1 . 5 . WIRE   WOUND , CHASSIS   MOUNT / EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS 1 . 4000 . 0 - WATER   CLEAR . SINGLE ; PANEL   MOUNT / EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS GAGE , 0 . 5   0 - 3000 ; 0 - 10V / CYLINDRICAL - EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 1 . 80 . 0 - DIFFUSED , SINGLE - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED   2 . 1 ; 2500 . 0 / SINGLE / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS Other   Transistors / 0 . 75 / NPN , Single . 0 . 125   EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS 560 / 160   20 ; 20 ; Snap - in   POLARIZED ; ALUMINUM - EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS WAVELENGTH   DIVISION   MUX / DEMUX   1260 / 1620 . 3 . 7   EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS GAGE / 0 . 25 - 0 , 7000   1 - 6V - CYLINDRICAL , EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 8 ; 8 . 38   S - XQCC - N56   8 , 56 . EOS
+BOS 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0
+
+BOS 0 . 5   2 . 8 . 20 - 2 / DO - 35 , EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SPLITTER / COUPLER - 980 / 55   40 / 60   3 . 7   EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS 4194304   25 . 128KX32 - S - CQMA - G68 . CMOS   5 . EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2
+
+BOS LVCMOS   100 ; 2 . 5 / SURFACE   MOUNT . 15   pF   EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS 2 / 1 . 50 . 0   DIFFUSED / SINGLE - PANEL   MOUNT , EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SPLITTER / COUPLER / 630 , 55 / 01 / 99 ; 3 . 7 ; EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS 2 , 1 . 1000 . 0 / DIFFUSED / SINGLE ; PANEL   MOUNT / EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED ; 2 . 1   WATER   CLEAR / SINGLE . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS 24 ; 48   21 , 32 - 52 . 8 , 3 . YES / EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS UNK   SENSOR , ANALOG , VOLTAGE   OUTPUT . SQUARE ; SURFACE   MOUNT ; EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 0
+
+BOS SPLITTER / COUPLER , 1310 . 1290 . 1330 . 65 - 30 / 70 / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS WAVELENGTH   DIVISION   MUX / DEMUX / 1620 , 45 ; 1 . 6   EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS LINE   TRANSCEIVER   5 , 1   1 . 27   SOP . 28 , EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK . 1 - 300 - 10 , BOARD / EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS 2 - 1 - 200 . 0 . DIFFUSED ; SINGLE - RADIAL   MOUNT . EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 2 / 1 - 200 . 0 ; DIFFUSED / SINGLE ; RADIAL   MOUNT - EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS NTC   RESISTOR - 10 ; 1 , 0 . 12 , SURFACE   MOUNT . EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE . GAUGE / 0 , 3000 ; 0 - 5V - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 75 , 0 . 014 - 20 / 0 . 1 , 10 . 1 / EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS SCR   149 . 15 / 1200 . 1200 , 150 , 2 / 7   EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 2 , 1   80 . 0 - DIFFUSED / SINGLE - PANEL   MOUNT ; EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 240 , 2 , 2 . 54 / FEMALE , BOARD . STRAIGHT / SOLDER , EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS ROCKER   SWITCH ; 10 - 24 / SCREW - 0 . 01 , 10000 . EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS LVPECL . 62 . 5 / 30 ; 2 . 5   SURFACE   MOUNT / EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS 48 / 2 / 36 - 76 . 1 . 3 / NO / YES / EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS 2 - 1 , 110 . 0 , DIFFUSED   SINGLE / RADIAL   MOUNT . EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 48 , 2   76   2 . 2 / 3 / NO ; YES , EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS CIRCULAR   CONNECTOR ; 4 ; FEMALE / BOARD   AND   PANEL - SOLDER . EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS ROTARY   POSITION   SENSOR , HALL   EFFECT / 0 . 5 . ROUND / EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 2 ; DIFFUSED - SINGLE - RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS ABSOLUTE / 0 . 1 . 0 . 15 / 1 - 5V ; CYLINDRICAL . EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS MOMENTARY   5 / 12 , PANEL   MOUNT . SCREW . 0 . 1 - EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS 2 - 680 . 0 ; WATER   CLEAR - SINGLE . PANEL   MOUNT   EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS GAGE / 0 . 25 / - 15 . 185 - 0 - 10V , CYLINDRICAL - EOS
+BOS 1 0 1 2 1 0 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1
+
+BOS GAGE , 0 . 5 ; - 15   15 . 4 - 20mA ; CYLINDRICAL / EOS
+BOS 1 0 1 2 1 0 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1
+
+BOS ABSOLUTE - 0 . 15   - 15 - 85 . 0 - 5V   CYLINDRICAL ; EOS
+BOS 1 0 1 2 1 0 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1
+
+BOS D / A   CONVERTER / 5 ; 12   R - PDSO - G16 , BICMOS , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS 2 . 1 / 350 . 0 , WATER   CLEAR   SINGLE . RADIAL   MOUNT , EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS IC   SOCKET ; PGA121 - 121 , BE - CU - 2 . 54 . 3 . EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS CMOS / 2 . UNK   25 ; 3 , SURFACE   MOUNT - 15   pF , EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS 5   PPM / YEAR   20 - 0 . 005 , 100   120 ; 18 . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS MIL   SERIES   CONNECTOR . 7 . FEMALE   CABLE   AND   PANEL , CRIMP - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 0
+
+BOS 2 / 1 ; 2500 . 0   WATER   CLEAR - SINGLE - PANEL   MOUNT ; EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 8 / 5   PPM / YEAR . 50 . 0 . 003 - 100   40 . EOS
+BOS 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS 150 ; 1 - 3   350 / METAL   FILM - THROUGH   HOLE   MOUNT ; EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0
+
+BOS LVCMOS ; 33 / 50   2 . 8 ; SURFACE   MOUNT ; 15   pF / EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS LVPECL ; 750 . 100 , 3 . 3 - SURFACE   MOUNT ; 50   OHM . EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS BOARD   CONNECTOR ; 10 , 2 - 2 ; FEMALE - BOARD   STRAIGHT   SOLDER , EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT - 3 . 3 / 0 - 70 ; EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS SCR , 1180 . 64 . UNK   800 . 800   500 / 150   1 - EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 0 . 47 . 1 . 15   10 / 25 / 1 - DUAL   ENDED , EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS BOARD   CONNECTOR , 40 / 2 - 2 . 54 , MALE - BOARD   STRAIGHT / EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS SP4T ; FAILSAFE - 0 . 19 / 28 . DC - DC ; PANEL   MOUNT ; EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 42   2 ; 2 . 54   FEMALE , BOARD - STRAIGHT ; PRESS   FIT , EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 0 . 15 - 0   1000 ; 0 . 10 - 5 . 10V   CYLINDRICAL . EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT / 3 . 3   0 - 70 - EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS PLL   BASED   CLOCK   DRIVER / 3 . 3 ; 1 . YES   SOP , EOS
+BOS 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT - 3 . 3 - 0   70 / EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS 22 - 25 ; 10 ; SMT / POLARIZED   TANTALUM   ( DRY / SOLID ) . EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 2 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 2 2 2 2 2 2 2
+
+BOS CMOS   7 , 100 ; 1 . 8 , SURFACE   MOUNT - 15   pF   EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS UNK   SENSOR , SWITCH / DIGITAL   OUTPUT , SERIAL / RECTANGULAR - SURFACE   MOUNT - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 9 . UNK . 100 ; 1 . 8 - SURFACE   MOUNT / 15   pF . EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT , 3 . 3 / 0 , 70 ; EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS MIL   SERIES   CONNECTOR - 41 / FEMALE   CABLE   AND   PANEL - CRIMP / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT   3 . 3 . 0 / 70 / EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS 65536   8 . 8KX8 / R - PDSO - G8 / CMOS   1 . 27 ; EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0
+
+BOS 2 - 1 / 4400 . 0 ; WATER   CLEAR ; SINGLE . PANEL   MOUNT / EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 2 - 0 . 02 , 1 - WATER   CLEAR , SINGLE - PANEL   MOUNT - EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK   1 , 1 ; 600 ; 20 / BOARD / EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS MIL   SERIES   CONNECTOR ; 10 . FEMALE - CABLE   AND   PANEL - CRIMP - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS IC   SOCKET ; PGA257 . 257 . BERYLLIUM   COPPER   ALLOY ; 2 . 54 / EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED   1   WATER   CLEAR . SINGLE / RADIAL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR . 100 , 0 . 001 / 1 , DUAL   ENDED . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 2 . 1 ; 350 . 0 / WATER   CLEAR   SINGLE   RADIAL   MOUNT   EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED . 2   1 - 100 . 0 / DIFFUSED   SINGLE , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS 1 . 56 - 4 . 7 . 79 . 8 ; 2 / DO - 214AA ; EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS CMOS , 16 . 6665 . 25 ; 3 . SURFACE   MOUNT ; 15   pF ; EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2
+
+BOS MEMORY   CIRCUIT   R - PBGA - UNK - 0 . 8 / 3 ; 3 , EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK / 1   1 - 300 - 20 - BOARD . EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE ; SEALED , 0 - 30 / 0 - 5V ; CYLINDRICAL / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS VARIABLE   ATTENUATOR , 0 / 4000 . 0 . 6   22 / 33 . 01 - EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 24   48 , 18 ; 36 / 52 . 8 - 3 ; NO - YES , EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS SPST   MOMENTARY , 0 . 1 , 60   PANEL   MOUNT - THREADED ; WIRE - EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0
+
+BOS 24 . 18 . 36 . 1   2 . 2 - 3 / NO ; YES   EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 2   1 - 4400 . 0 , WATER   CLEAR . SINGLE ; PANEL   MOUNT - EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT   3 . 3 / 0   70 . EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 2   1   CLEAR / SINGLE , RADIAL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS THERMAL   CIRCUIT   BREAKER ; 240 ; 60 - PANEL   MOUNT   2000 / 2 . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED   2 ; 1 / 80 . 0 ; PANEL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS 2 ; 1 / 350 . 0   WATER   CLEAR / SINGLE   RADIAL   MOUNT   EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT / 3 . 3 / 0 ; 70 ; EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS SHIFTER / 5 . 6 . 5 , 1 , YES / DFP . 3 - STATE ; EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK , 1 - 25 ; 300 ; 15   BOARD . EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 1 , 2000 . 0   20 , WATER   CLEAR ; SINGLE   PANEL   MOUNT , EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS TRANS   VOLTAGE   SUPPRESSOR   DIODE - 5 ; 70 . 1 , 77 . 9 . EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT   3 . 3 ; 0 , 70 , EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS 2 . 1 - 4400 . 0 ; WATER   CLEAR . SINGLE - PANEL   MOUNT - EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS ROCKER   SWITCH . DPST / THROUGH   HOLE - RIGHT   ANGLE / SOLDER / 10000 . EOS
+BOS 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS 2   1 , 17000 . 0   WATER   CLEAR / SINGLE - PANEL   MOUNT - EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 2 . 1 - 4000 . 0 ; WATER   CLEAR   SINGLE , PANEL   MOUNT , EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS BOARD   STACKING   CONNECTOR - 162 - 6 - 2 . MALE , STRAIGHT . SOLDER / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS TRANS   VOLTAGE   SUPPRESSOR   DIODE , 3 , 2 - 133 - DO - 15 , EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 282 . 6 , 180000 / 400 ; 400 / 30 , 600   200 , 2 / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT ; 3 . 3 , 0 - 70 , EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS 5 . 42 ; 60 , 2 . 5 ; 5 . 5 , 3 ; NO / EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS 154 . 4   2 . 54 - FEMALE   BOARD . RIGHT   ANGLE - SOLDER - EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS THERMAL   CIRCUIT   BREAKER   240 . 60 , PANEL   MOUNT . 2000 ; 2 / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED ; 2 , 1 , WATER   CLEAR . PANEL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS 10 . 5 , 0 . 2 , 150   25 ; SURFACE   MOUNT   0805   EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED ; 2 . 1 - 80 . 0 ; DIFFUSED ; SINGLE   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS OTPROM ; 8 ; 12 - S - PQFP - G44 ; 10 - 44 , YES . EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS 48 , 24   42 ; 12 . 26 . 4   2 - NO / YES , EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS 2 ; 1 / 350 . 0 - WATER   CLEAR - SINGLE ; PANEL   MOUNT - EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS CMOS , 45 . 1584   2 . 5 , SURFACE   MOUNT . 15   pF - EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE , GAGE . 0 . 25 - 0 ; 500 - CYLINDRICAL   EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT - 3 . 3 , - 40 ; 85 - EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT ; 3 . 3 , - 40 , 85 , EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT   3 . 3 - - 40   85 . EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT . 3 . 3 , - 40   85 - EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS 3 / 1 , DIFFUSED / COMMON   CATHODE ,   2   ELEMENTS , PANEL   MOUNT . EOS
+BOS 1 0 1 0 1 0 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 2 2 2 2 2 2 2 2 1
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT / 3 . 3 - - 40 - 85 / EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT , 3 . 3 - - 40 . 85   EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT , 3 . 3 - - 40 - 85 , EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS 36000 / 1 - 0 . 125 . 100 - - 100 , 100 , 4010 . SIP   EOS
+BOS 1 0 1 0 1 2 1 0 1 0 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1
+
+BOS FIXED   RESISTOR , 5   10 . - 100 , 100 - WIRE   WOUND . Axial , EOS
+BOS 1 2 1 0 1 0 1 0 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 2 , 1 / 10 . 0 , COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS / EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 2 1 2 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 2 2 2 2 2 2 2 2
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT ; 3 . 3 , - 40 , 85 / EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS COMPOUND / 0 . 25   - 14 . 7 , 5000 . 0 - 5V , CYLINDRICAL / EOS
+BOS 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS 8200 , 10 , 100   - 10 , 10 , THIN   FILM ; 3825   DIP ; EOS
+BOS 1 0 1 0 1 0 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS STEPPING   MOTOR   WATCH   3 . 6 . 8 . - 10 . 60 , DIE / EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT - 3 . 3 ; - 40 / 85 / EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT / 3 . 3 , - 40   85 . EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS ATM / SONET / SDH   SUPPORT   CIRCUIT / 3 . 3   - 40 / 85 / EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS FIXED   POSITIVE   SINGLE   OUTPUT   LDO   REGULATOR   4 . 2 , 6 , YES - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE / 150 , 10 / 100 - 200 - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS LVDS , 700   20 - 3 . 3 / SURFACE   MOUNT ; 50   OHM   LVDS / EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS ALUMINUM   ELECTROLYTIC   CAPACITOR   47   16 , 20 ; 20 - Axial   POLARIZED . ALUMINUM ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS BUFFER   OR   INVERTER   BASED   PERIPHERAL   DRIVER . 20 ; 7 - BIPOLAR , DIP / EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS FLASH / 5 . 36870912E8 ; 8 / 12000 . 64MX8 - CMOS   0 . 5 ; 3 . EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 2 . 7 / 0 . 31 , 1   8   YES , TSSOP . 3 - STATE / EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS ALUMINUM   ELECTROLYTIC   CAPACITOR ; 33000 - 100   50   10 . Radial   POLARIZED , ALUMINUM ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 1 . 073741824E9 , 8   128MX8 , R - XXMA - X50 . CMOS   3 . 3 ; EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED , 2 - 1 - 5 . 0 - DIFFUSED . PANEL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE , COMPOUND , 0 . 25 - 10000   0 - 5V , CYLINDRICAL   EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS 10   24 / PANEL   MOUNT , SCREW   ON - OFF   0 . 01 . 10000 - EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS TRANS   VOLTAGE   SUPPRESSOR   DIODE   1 . 61 ; 51 ; 2 ; 56 . 7 , EOS
+BOS 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS 2 . 0 . 03 / 1   1400 . 0 ; 110 . SINGLE , SURFACE   MOUNT , EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK ; 1   6 / 1 ; 300 , 20   BOARD / EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS Small   Signal   Bipolar   Transistors ; 0 . 8 . NPN , SINGLE ; 3 . 1   EOS
+BOS 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS ALUMINUM   ELECTROLYTIC   CAPACITOR / 10000 . 10 . 20 - 20 - Radial ; POLARIZED / ALUMINUM ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS GAGE - 0 . 25 , 0   100 ; 0 . 5 - 4 . 5V ; CYLINDRICAL , EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE . GAGE ; 0 . 25 ; 0   0 - 5V   CYLINDRICAL ; EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE / GAUGE   0 . 1 ; 0 / 300 ; 4 - 20mA , EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS 9530   0 . 1 ; 0 . 333 ; 200   25 , SURFACE   MOUNT   1206 , EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS ZENER   DIODE / 0 . 5 ; 33 / 3 . 8 , 2 . DO - 35 / EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS FIXED   POSITIVE   SINGLE   OUTPUT   LDO   REGULATOR . 3 . 5 . 6 . YES ; EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS 56 / 3 - 10 , 2 . 5 ; 0 . 243 , 1 . AXIAL , Tubular ; EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK   1 / 28 - 1 , 300 / 15 . BOARD . EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED - 2   1 ; 100 . 0 , SINGLE   RADIAL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS BOARD   CONNECTOR . 64 / 2 ; 1 . 27 ; MALE , BOARD / STRAIGHT - SOLDER / EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED , 2 , 1000 . 0 , DIFFUSED ; SINGLE . PANEL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS THERMAL   CIRCUIT   BREAKER   240 . 60 ; 1   PANEL   MOUNT / 2000 , 2 , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK - 1 / 7 , 2 . 300   20 . PANEL . EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS CMOS ; 32 . 768   100 / 2 . 8 ; SURFACE   MOUNT   15   pF , EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS BOARD   CONNECTOR . 1 - 2 . 54 . MALE . BOARD   STRAIGHT , 0 . 1 ; EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 470 , 1 . 4 . 10 ; 0 . 01 ; 0 . 5 ; 1 ; RADIAL - EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS 300 / 28 , 200 - 400 ; 14 / 30 . 8 ; 3 / NO ; YES ; EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS LVCMOS . 94 . 248999 ; 20 ; 3 . 3 / SURFACE   MOUNT , 15   pF - EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR ; 56 . 10   0 . 001 ; 5 . 5 ; 1 . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS SEALED ; 0 . 1 . 0 - 30 ; 0 . 5 - 4 . 5V , CYLINDRICAL ; EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED - 1   50 . 0 / DIFFUSED , SINGLE , PANEL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 30   3   PPM / FIRST   YEAR . 20 , 0 . 005 - 80 / 18 ; EOS
+BOS 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS 1   FORM   B - SPST - LATCHED / 4 . 8   3   DC - AC - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS 24 . 28   21 ; 32   14 . 30 . 8 - 3   NO . YES - EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS HCSL ; 222 . 527472 , 50 . 2 . 8 / SURFACE   MOUNT . 15   pF . EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS 120 , 450 , 20 / THROUGH   HOLE   MOUNT , POLARIZED . ALUMINUM   ( WET )   EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 2 2 2 2
+
+BOS 0 . 0082 - 0 . 28 / 100   0 . 3 ; 1   DUAL   ENDED - EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK . 1   13 - 1 , 300 / 20 , BOARD , EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED . 2 ; 1 ; 17000 . 0 - SINGLE . PANEL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK . 1 - 20 . 1 , 600 ; 20 , BOARD / EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 2200 , 25 . 30 , 10 , CHASSIS   MOUNT   POLARIZED / ALUMINUM   ( WET ) . EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 2 2 2 2
+
+BOS ABSOLUTE , 0 . 1 ; 0 , 500 - 0 . 5 - 4 . 5V   CYLINDRICAL . EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0
+
+BOS 2 . 5 - 0 . 225 , 1 - 10 ; YES   TSSOP / 3 - STATE - EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED / 1   4400 . 0 ; WATER   CLEAR ; PANEL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS MICROCONTROLLER   FLASH . 16 - 25   S - PQFP - G112 ; 20   112   YES . EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS 24   3 . 3 - 18 / 36 . 3 . 63   3 ; NO . YES . EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS ZENER   DIODE / 0 . 5 - 13 . 33 . 10 / 2 . DO - 34 . EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS RF   Small   Signal   Bipolar   Transistors - 0 . 05 . NPN / SINGLE , 1 - EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS 2 / 1 , CLEAR / SINGLE   WITH   BUILT - IN   RESISTOR ; RADIAL   MOUNT - EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0
+
+BOS CMOS / 11 . 105 , 50 ; 2 . 8 - SURFACE   MOUNT   15   pF , EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED , 80 . 0 - 100 ; DIFFUSED - SINGLE , RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED / 2 / 1   540 . 0 , DIFFUSED   PANEL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK ; 1 - 11 / 1 . 300 , 20   BOARD ; EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 8 , 40 ; 32KX8 / R - XDIP - T28 . 2 . 54 . 5 ; 5 - EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS GAGE , 0 . 25 / 0 , 0 . 58 - RECTANGULAR - THROUGH   HOLE   MOUNT ; EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK / 1 , 2   1 . 300 , 15 - BOARD - EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK . 1 , 13 / 1 , 300 ; 20 - BOARD , EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS TRIGGER   OUTPUT   SSR , 0 . 02 . SINGLE   WITH   BUILT - IN   RESISTOR ; EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 0
+
+BOS CMOS - 58 . UNK - 20 , 3 . 3 . SURFACE   MOUNT , 15   pF - EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED , 1 - 1000 . 0   DIFFUSED , SINGLE   PANEL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 5 . 5 . 5 ; 1 ; 6   YES ; SOP ; 50 . 3 - STATE / EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS DUAL   COLOR   LED ; 2 / 0 . 02 - 1 , DIFFUSED - RADIAL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR / UNK - 0 . 01 ; 0 . 125 . WIRE   WOUND ; Axial ; EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS BOARD   CONNECTOR ; 16 - 1 , 2 . 54 . MALE . BOARD / STRAIGHT / SOLDER   EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS NAND   GATE . 5 ; 140 / 4 - 2 , YES - DFP   OPEN - COLLECTOR / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED   2   540 . 0 , DIFFUSED   SINGLE , RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS BARRIER   STRIP   TERMINAL   BLOCK / 1 . 33   1 ; 300   20 . BOARD . EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS TOGGLE   SWITCH . DPDT   6   28 ; PANEL   MOUNT - QUICK   CONNECT , 60000 - EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS PUSHBUTTON   SWITCH , SPST , MOMENTARY , 5 ; 28   PANEL   MOUNT - THREADED . SOLDER   EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 1 ; 1000 . 0 - DIFFUSED ; SINGLE . RADIAL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED ; 2 , 1   WATER   CLEAR / SINGLE ; RADIAL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 15 , 25 ; 20 ; 20 - SMT - 2917 , SURFACE   MOUNT , POLARIZED ; TANTALUM , EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS ALUMINUM   ELECTROLYTIC   CAPACITOR / 22   50 / 50 ; 10 ; Radial / POLARIZED . ALUMINUM . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS CMOS , 10 . 7 , 50   3 . 3 . SURFACE   MOUNT / 15   pF - EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS 0 . 4   500 . 5   SURFACE   MOUNT / 10   KOHM ,   15   pF ; EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 2 2 2 2 2 2 2 1
+
+BOS HCMOS - 80   20 ; 5 , SURFACE   MOUNT . 10   TTL ,   15   pF ; EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 2 2 2 2 2 2 2 2
+
+BOS 1 . UNK / 20 / 5   SURFACE   MOUNT / 10   TTL ,   50   pF / EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 2 2 2 2 2 2 2 2
+
+BOS MICROCONTROLLER ,   RISC - OTPROM , 8   12 - R - XUUC - N18 ; 18 - YES - EOS
+BOS 1 2 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS COMPOUND - 0 . 25 / - 14 . 7 , 0 . 5 - 4 . 5V ; CYLINDRICAL . EOS
+BOS 1 0 1 2 1 0 2 1 2 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0
+
+BOS N - CHANNEL . COMMON   SOURCE ,   2   ELEMENTS   8 ; 65   2 ; 12 . EOS
+BOS 1 2 1 0 1 2 1 2 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS 2   1 . DIFFUSED - COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS . PANEL   MOUNT , EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 2 2 2 2 2 2 2 2 2 1
+
+BOS 2 - 1 / DIFFUSED . COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS . RADIAL   MOUNT / EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 2 2 2 2 2 2 2 2 2 1
+
+BOS TRIPLE   COLOR   LED . 3 / 1 , DIFFUSED ; COMMON   CATHODE ,   2   ELEMENTS ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 2 2 2 2 2 2 2 2
+
+BOS COMPOUND - 0 . 1   - 1 . 50 / 0 . 5 - 4 . 5V - CYLINDRICAL , EOS
+BOS 1 0 1 2 1 0 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0
+
+BOS ADC ,   PROPRIETARY   METHOD   3 - 2 . 5 , 14 , S - PDSO - G10 . EOS
+BOS 1 2 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 2 2 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS 2 , 1   DIFFUSED / COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS . PANEL   MOUNT / EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 2 2 2 2 2 2 2 2 2 1
+
+BOS SINGLE   COLOR   LED , 2   1 . 200 . 0 / DIFFUSED   SINGLE   PANEL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED - 2 ; 1 - 80 . 0 / DIFFUSED   SINGLE / PANEL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED , 2 . 1 / 150 . 0 / DIFFUSED ; SINGLE - RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED / 2 - 1 - 80 . 0 . DIFFUSED - SINGLE ; RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED - 2 , 1 ; 250 . 0 , DIFFUSED , SINGLE ; RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS ISOLATED / 0 . 125   30000   5 - 50 . 0 . 001 . SURFACE   MOUNT - 2 / EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED / 2 / 17000 . 0 . WATER   CLEAR . SINGLE ; RADIAL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED - 2 ; 1   1000 . 0 ; DIFFUSED / SINGLE   PANEL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED , 2   1 - 80 . 0 ; DIFFUSED . SINGLE   PANEL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED . 2 - 1 / 60 . 0   DIFFUSED - SINGLE , PANEL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 8 . 589934592E9 . 8 . 250 , 1GX8   R - XXMA - X50   CMOS , 3 . 3 / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 1270 - 1 , 2   1000 . METAL   GLAZE / THICK   FILM , SURFACE   MOUNT . UNK ; EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED - 2 / 1   17000 . 0 - WATER   CLEAR / PANEL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR - 82000   67 . 3 - 15   0 . 07 / Ferrite / Cylindrical - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS 1   FORM   C , SPST , LATCHED ; 360 . 10 . 28 , DC / AC / DC , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 2 . 0 . 02 . 1 ; 4000 . 0 / WATER   CLEAR - SINGLE / PANEL   MOUNT / EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SPDT - MOMENTARY . 5   28 - THROUGH   HOLE - STRAIGHT   SOLDER - ON - ( ON ) / EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS FILM   CAPACITOR   0 . 047 . 30 ; 1 . 1 . THROUGH   HOLE   MOUNT / PLASTIC , EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED . 2 ; 1 , 60 . 0 , DIFFUSED , SINGLE   PANEL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 4194304   80 . 256KX16 / R - PDSO - G40 ; CMOS ; 0 . 5 - 5 ; 5   EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 2 ; 1 . 4 . 0 ; DIFFUSED / SINGLE . PANEL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , STRAIN   GUAGE , GAGE ; 0 . 25   0 , 150 ; 100mV - CYLINDRICAL ; EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS 3PDT / HORIZONTAL - PANEL   MOUNT , SOLDER   LUG ; ON - ( ON ) - 0 . 01 , EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 2 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 2 2 2 2 2 2 2 2 1 0
+
+BOS TRANS   VOLTAGE   SUPPRESSOR   DIODE , 3 ; 5 / 2 - 7 . 6 - DO - 15 , EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED   2 / 1 , 50 . 0 . DIFFUSED / SINGLE - RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED ; 2   1 , 2200 . 0   DIFFUSED   SINGLE - PANEL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 8 - 24 ; PANEL   MOUNT / SCREW / ON - OFF - ON / 0 . 01 / 10000 , EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED , 2 / 1 , 10 . 0 ; DIFFUSED   SINGLE   PANEL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED / 2 ; 1 / 250 . 0 ; WATER   CLEAR   RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS 6650 , 0 . 1 - 0 . 2 / 150   25 , THIN   FILM   0805   SMT . EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS PRESSURE   SENSOR , CERAMIC   ABSOLUTE / 0 . 10 ; 0 , 200 / 1 - 5V ; CYLINDRICAL / EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 2 / 1   80 . 0 / DIFFUSED - SINGLE / RADIAL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 0 . 0091   0 . 02 / 10 . 800 ; 2 . AIR . 2 ; DUAL   ENDED / EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS FIXED   POSITIVE   SINGLE   OUTPUT   LDO   REGULATOR , 1 . 4 / 6 . 5 ; YES . EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS RF   Small   Signal   Bipolar   Transistors ; 0 . 05 , NPN / SINGLE ; 3   100 - EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 2 - 1   80 . 0 / DIFFUSED / SINGLE . RADIAL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS RC   NETWORK , 330 ; 5 / 50 - 0 . 039 - THROUGH   HOLE   MOUNT - 12 ; EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0
+
+BOS FLASH - 16 . 56 ; UNK - 16384   S - PQFP - G120 - 16 , 120 . YES . EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0
+
+BOS 4194304 - 90 / 256KX16 . R - PDSO - G48   CMOS . 0 . 5   5   5 - EOS
+BOS 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS 499000 / 0 . 1   0 . 25 , 250 . 100 - THROUGH   HOLE   MOUNT - Axial / EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED , 12 . 7 - 2 ; 1 ; CLEAR ; COMPLEX - AXIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS BOARD   CONNECTOR , 120 - 4 - 2   FEMALE ; BOARD - RIGHT   ANGLE ; PRESS   FIT - EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED - 2 , 1 ; 5 . 0 ; DIFFUSED . SINGLE - PANEL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS CMOS   0 . 3   SURFACE   MOUNT   15   pF / 1   PPM / FIRST   YEAR . EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 2
+
+BOS SINGLE   COLOR   LED   2 ; 1 - 80 . 0 . DIFFUSED . SINGLE - PANEL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS Power   Field - Effect   Transistors . N - CHANNEL - SINGLE - 3   0 . UNK / 9 , EOS
+BOS 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 2   1   100 . 0 / DIFFUSED ; SINGLE . PANEL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED   2 - 1 ; 250 . 0 / DIFFUSED / SINGLE / PANEL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS MICROCONTROLLER   OTPROM - 8   2 / S - PQCC - J68 , 24 . 2062 , 68 , YES . EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 2 / 1 ; 60 . 0 ; DIFFUSED . SINGLE , PANEL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 6120 ; 0 . 5   0 . 05 , 25 / THIN   FILM , SURFACE   MOUNT ; 0402 . EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS A / D   CONVERTER - 5 / 5 . 05 , 10   R - XDIP - T20 / CMOS . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0
+
+BOS ROTARY   SWITCH . 4PDT / CIRCULAR - 250 . THROUGH   HOLE - STRAIGHT , 0 . 02 / 10000 / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED ; 2   1   540 . 0 ; DIFFUSED ; SINGLE , PANEL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SNAP   ACTING / LIMIT   SWITCH   SPDT   MOMENTARY / PANEL   MOUNT   QUICK   CONNECT ; 6000 . EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED , 2   1   80 . 0 ; DIFFUSED , SINGLE . PANEL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE ; GAUGE - 0 . 1 . 0 ; 500 , 4 - 20mA / CYLINDRICAL . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS MICROCONTROLLER , MROM - 16 ; 12 . 5 , S - PQFP - G80 . 14 ; 80 . YES / EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS 24 ; 12 / 21 ; 32 , 10 . 8 / 13 . 2 ; 3 , NO . YES . EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS 15 - 20 - 20 , 2611 , SURFACE   MOUNT , POLARIZED ; TANTALUM   ( DRY / SOLID ) / EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 2 2 2 2 2 2
+
+BOS SINGLE   COLOR   LED . 2 ; 1 - 540 . 0 . DIFFUSED . SINGLE   RADIAL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED ; 2   1 - 200 . 0 ; DIFFUSED   SINGLE . RADIAL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SPDT . MOMENTARY , 4000 , 30   28 ; AC / AC / DC - SURFACE   MOUNT - STRAIGHT / EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED - 2 . 1 , 4 . 0 . DIFFUSED - SINGLE / RADIAL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS BOARD   STACKING   CONNECTOR   10 , 1 , MALE   BOARD   STRAIGHT , 0 . 1 , SOLDER   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED - 2 / 1 . 150 . 0 ; DIFFUSED ; SINGLE . RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 0 . 5 / 0 . 1 , 100 . 50 - THIN   FILM   SURFACE   MOUNT . 0805 - EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS TRANS   VOLTAGE   SUPPRESSOR   DIODE ; 1 . 13 - 146 / 2 , 162 - DO - 41 , EOS
+BOS 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE , 48 - 220   1 ; NO - YES - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS CAPACITIVE   SWITCH - SPST ; MOMENTARY , 0 . 1 / 60 / PANEL   MOUNT - THREADED , WIRE ; EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0
+
+BOS 48 - 12   36 . 76 / 10 . 8 ; 13 . 2 ; 3   NO - YES ; EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS ARRAY / NETWORK   CAPACITOR , 3 . 3E - 4 , 50 , 100 - 0 , SURFACE   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR . 0 . 02 / 30   0 . 001 ; 5 . 9 . 1 ; EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS 2 . 1 / 2 . 95 / 3 . 76 - 4 ; R - PBGA - B4 / CMOS - EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED   2 / 1 - 5 . 0 , DIFFUSED   SINGLE . RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE - GAGE . 0 . 25 . 0 / 500 ; 1 - 5V / CYLINDRICAL   EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS PRESSURE   SENSOR , STRAIN   GUAGE / GAGE - 0 . 5 / 0 . 150   1 - 11V   EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE   SEALED , 0 . 25 , 0 , 7000 - 4 - 20mA   CYLINDRICAL ; EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SERIAL   IO / COMMUNICATION   CONTROLLER ,   SERIAL - S - PQCC - N24 , 4 . 24 / YES   EOS
+BOS 1 2 1 2 1 2 1 2 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS CERAMIC   CAPACITOR / 5 . 6E - 5 . 100 . - 1500ppm / Cel   SMT ; 0707 - CERAMIC - EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 0 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE , DIFFERENTIAL , 0 . 25 , - 1 / 1 . RECTANGULAR , SURFACE   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE . COMPOUND - - 14 . 7   100 - 0 . 5 - 4 . 5V / EOS
+BOS 1 2 1 2 1 0 1 0 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 0
+
+BOS 4 . 7E - 4 , 100 - 5   15 %   0603 . BX ; SURFACE   MOUNT . CERAMIC   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE , COMPOUND . 0 . 1 ; - 1   50 / 1 - 5V . CYLINDRICAL - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1
+
+BOS DUAL   COLOR   LED / 2 / 1 - DIFFUSED / COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 2 2 2 2 2 2 2 2 2
+
+BOS SINGLE   COLOR   LED . 2 - 1 , 250 . 0 / WATER   CLEAR   SINGLE / RADIAL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED - 2 - 1   4000 . 0   WATER   CLEAR   SINGLE - RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 60 - 0 . 25   3 / SURFACE   MOUNT / 15   pF , 1   PPM / FIRST   YEAR / EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0
+
+BOS BUSSED / 1 . 2 - 1000 ; 10 , 20 , 5 . 6E - 5   SURFACE   MOUNT . 20   EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS RC   NETWORK ; BUSSED   33 / 5 ; 50 ; 0 . 0039 / THROUGH   HOLE   MOUNT - 8 . EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED - 2 - 1 . 680 . 0 / WATER   CLEAR , SINGLE . PANEL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 1200 , 1 . 2   2 , 1 . 0E - 5 / 14 / 4   5 . 5 . DUAL / EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED ; 2 ; 0 . 02 , 150 . 0 , DIFFUSED . SINGLE . RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED - 2   1   2000 . 0   WATER   CLEAR   SINGLE / PANEL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS ROTARY   SWITCH . SP4T . CIRCULAR , 0 . 15 / 250 / PANEL   MOUNT ; SOLDER   LUG   10000 , EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS 33   1 - 2 . 54 - MALE ; BOARD   RIGHT   ANGLE , 0 . 1 / WIRE   WRAP / EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS ALUMINUM   ELECTROLYTIC   CAPACITOR , 25   50 / 10 / THROUGH   HOLE   MOUNT / ALUMINUM   ( WET )   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED - 2 , 1 / 2500 . 0 . WATER   CLEAR   SINGLE / PANEL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED / 2 / 1 - 680 . 0 - WATER   CLEAR / SINGLE   RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS TANTALUM   CAPACITOR   660 / 10 - 10 / SURFACE   MOUNT   POLARIZED ; TANTALUM   ( DRY / SOLID ) ; EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 2 2 2 1
+
+BOS SINGLE   COLOR   LED / 2 ; 1   250 . 0 / WATER   CLEAR , SINGLE - RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS CLIPPED   SINE - 0 . 2   2 . 8   SURFACE   MOUNT - 1   PPM / FIRST   YEAR   EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 2
+
+BOS 1048576 / 16 . 35 , 64KX16 / S - PQCC - J44 , CMOS , 1 . 27 , 5   5 - EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED ; 2 , 0 . 02 ; 1 . 100 . 0 - SINGLE / PANEL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR / 129 , 0 . 5 ; 100 / 50 , THIN   FILM . SURFACE   MOUNT / 1210 - EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR , 27 ; 5   5   0 . 08 ; FERRITE - 1   DUAL   ENDED   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 16900 - 1 . 0 . 125   250 , 100   METAL   FILM   THROUGH   HOLE   MOUNT - Axial , EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0
+
+BOS BUS   DRIVER . 3 . 3   4 . 9 , 4 - 1 ; YES ; SOP , 3 - STATE . EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , STRAIN   GUAGE , GAGE ; 0 . 15   0 ; 30 / 1 - 6V / CYLINDRICAL - EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED . 2   1 . 4000 . 0 , WATER   CLEAR / SINGLE / PANEL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS PARALLEL   -   7TH   OVERTONE , 200 - 3   PPM / FIRST   YEAR ; 10 ; 1000 . 10 ; EOS
+BOS 1 2 2 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 2 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS MICROCONTROLLER   FLASH   32 , 50 - 1048576 , 57344   S - PQFP - G120 / 14 / 120 - YES . EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED . 2 ; 1 / 2500 . 0 , WATER   CLEAR , SINGLE - RADIAL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 2   FORM   C / DPDT / LATCHED ; 8 , 0 . 25 ; 28 . DC , AC / DC - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS BUS   TRANSCEIVER - 5 ; 9 . 5 , 1 , 8 , YES   SOP ; 50 . 3 - STATE - EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED , 2 , 1   17000 . 0 . 100   WATER   CLEAR , PANEL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED , 2 . 1 - 4400 . 0   WATER   CLEAR / SINGLE - PANEL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SERIES   -   FUNDAMENTAL - 2 ; 5   PPM / FIRST   YEAR / 25   0 . 0025 - 100   EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 2 . 1 . 2500 . 0 . WATER   CLEAR / SINGLE . PANEL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED   2 / 1 , 17000 . 0   WATER   CLEAR , SINGLE   PANEL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS CERAMIC   CAPACITOR / 0 . 0043 . 50 , 2 . 2 / 30ppm / Cel , SMT , C0G ; CERAMIC   EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED ; 2 ; 1   2000 . 0 / WATER   CLEAR - SINGLE . PANEL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED , 2 . 1 , 4000 . 0 - WATER   CLEAR / SINGLE ; RADIAL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 3 . 9 - 468 . 2 , 1 ; 355 . 0   60 / DIFFUSED / SINGLE . RADIAL   MOUNT , EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED   2 . 1 / 250 . 0 ; WATER   CLEAR   SINGLE / PANEL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS DPDT   MOMENTARY , THROUGH   HOLE - STRAIGHT   SOLDER   ON - ( ON ) , 0 . 01 ; 25000 . EOS
+BOS 1 0 1 0 1 2 1 2 1 0 1 0 1 2 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 2 1 0 1 0 2 2 2 2 2 2 2 2 1 0
+
+BOS 57600 , 0 . 1 . 1 - 200 ; 100 ; THIN   FILM . SURFACE   MOUNT - 2512 ; SMT - EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS ROTARY   SWITCH . SP9T / CIRCULAR   250   PANEL   MOUNT / SOLDER   LUG ; 0 . 02 , 10000 . EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS TRANS   VOLTAGE   SUPPRESSOR   DIODE ; 1 . 38 , 11   2 / 12 . 2 . DO - 215AA ; EOS
+BOS 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS BOARD   CONNECTOR , 23 ; 1 / 1 . 27 ; MALE ; BOARD . STRAIGHT   0 . 05 ; SOLDER   EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED , 2   1 / 2500 . 0 / WATER   CLEAR ; SINGLE   PANEL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS BOARD   CONNECTOR   17 - 2   2 . 54 / MALE . BOARD - STRAIGHT - 0 . 1 ; SOLDER   EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED   2 . 1   2500 . 0 , WATER   CLEAR . SINGLE ; RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR / 41200   1 - 0 . 25 / 200 . 100 ; SURFACE   MOUNT . 1206 , SMT   EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS ALUMINUM   ELECTROLYTIC   CAPACITOR , 6 . 8   100 / 20   20 ; Radial   NON - POLARIZED . ALUMINUM ; EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS ROCKER   SWITCH . 10 , 24   PANEL   MOUNT . SCREW , ON - ON ; 0 . 01 ; 10000 , EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS ROTARY   POSITION   SENSOR , HALL   EFFECT , 0 . 50 - 4 . 50V - 1 . 0 / ROUND , EOS
+BOS 1 2 1 2 1 2 1 2 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 0
+
+BOS 128 / 2 , 2 . 54 , MALE   BOARD / STRAIGHT ; 0 . 1   SOLDER   KINKED   LEADS ; EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0
+
+BOS SINGLE   COLOR   LED . 1 . 1 ; 90 . 0 / 100 , DIFFUSED , SINGLE ; PANEL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED - 6 / 2 - 1 - 150 . 0 . 100 - WATER   CLEAR / SINGLE / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED   2 - 1 ; 17000 . 0 , WATER   CLEAR - SINGLE . PANEL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR ; 0 . 1 / 40 , 50 ; THIN   FILM , SURFACE   MOUNT . 0505 ; SMT   EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS 2 . 147483648E9 . 16 / 128MX16   R - PDSO - G48 - CMOS   0 . 5 - 1 . 8 . EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS TOGGLE   SWITCH . 3PDT - LATCHED , 0 . 02 - 20 . PANEL   MOUNT / WIRE   WRAP . 100000 . EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS FIXED   RESISTOR ; 0 . 5   0 . 0625 / 50   THIN   FILM , SURFACE   MOUNT . 0603 ; EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS ROTARY   SWITCH - 4P3T - CIRCULAR - 250 ; THROUGH   HOLE - STRAIGHT , SOLDER / 0 . 02 - 10000 ; EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS 1179648 / 9 ; 10 ; UNK . R - PQCC - J32 / CMOS ; 1 . 27 . 3 . 3   EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS SYNCHRO   OR   RESOLVER   TO   DIGITAL   CONVERTER / 5 ; 60 . 5 . 2 , 14 - HYBRID - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS PRESSURE   SENSOR , STRAIN   GUAGE . ABSOLUTE   0 . 15 / 0 ; 300 - 1 - 5V ; CYLINDRICAL . EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED - 2 , 1   250 . 0   WATER   CLEAR   SINGLE   RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 4 . 294967296E9 / 8 . 512MX8   R - PBGA - B78 - CMOS . 0 . 8   1 . 35 . EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED . 2 , 1 , 680 . 0   WATER   CLEAR ; SINGLE , PANEL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED ; 2 , 1 ; 4000 . 0 . WATER   CLEAR ; SINGLE / RADIAL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS STANDARD   SRAM . 8 - 85 . 32KX8 ; R - PDSO - G32   CMOS ; 0 . 5 - 5 . EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR . 22 ; 0 . 208 / 15   0 . 1 . 1 - DUAL   ENDED , EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 3P3T   CIRCULAR ; 0 . 15 - 250 ; PANEL   MOUNT   SOLDER   LUG / 0 . 02 ; 10000 . EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 2   1 . 4400 . 0   WATER   CLEAR , SINGLE ; RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SERIES   -   FUNDAMENTAL ; 29 . 999 . 1   PPM / FIRST   YEAR   10 - 50 / 30 , EOS
+BOS 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 2   1 / 2000 . 0 . WATER   CLEAR . SINGLE , RADIAL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED / 2 - 1 - 4000 . 0 / WATER   CLEAR / SINGLE . RADIAL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 2 . 147483648E9 - 8 . 35   256MX8 . R - PDSO - G48 - CMOS   0 . 5   3 , EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED - 2 . 1 / 350 . 0 . WATER   CLEAR   SINGLE ; RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE / COMPOUND , 0 . 25 ; - 14 . 7 / 10000 ; 1 - 6V , CYLINDRICAL ; EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS CERAMIC   CAPACITOR - 0 . 0033 / 3000 ; 80   20 . 15 % - SMT - 2225 ; X7R / CERAMIC , EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PARALLEL   IO   PORT ,   GENERAL   PURPOSE   R - GDIP - T40 / 15 . 24 . 40 / NO . EOS
+BOS 1 2 1 2 1 2 2 1 2 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 2 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS 2 - 0 . 02   1 - DIFFUSED ; COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS / PANEL   MOUNT   EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 2 2 2 2 2 2 2 2 2 1 0
+
+BOS 2   1 , 10 . 0 ; DIFFUSED - COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS   RADIAL   MOUNT . EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 2 1 2 2 2 2 2 2 2 2 2 1 0
+
+BOS TRIPLE   COLOR   LED - 3 - 1 ; DIFFUSED ; COMMON   CATHODE ,   2   ELEMENTS . PANEL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 2 2 2 2 2 2 2 2 1 0 1
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE / COMPOUND ; 0 . 25 . - 14 . 7 ; 100 - 0 - 10V   CYLINDRICAL , EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS DUAL   COLOR   LED ; 2 - 1 ; COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS / RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 2 2 2 2 2 2 2 2 2 1 0 1
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE - COMPOUND . 0 . 1 , - 14 . 7   150 ; 1 - 6V / CYLINDRICAL , EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 2 2 1 0 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE / COMPOUND / 0 . 10 / - 14 . 7 . 100 , 0 - 5V - CYLINDRICAL , EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS 2880   CLBS ,   48000   GATES . 310   2880 . CMOS ; S - CQFP - F256 - 0 . 5 . EOS
+BOS 1 2 1 2 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0
+
+BOS 0 . 0015 . 2000 . 20 . 20   - / + 15ppm / Cel - SMT   1908   X7R , CERAMIC - EOS
+BOS 1 2 1 0 1 0 1 0 1 0 2 2 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 2 2 2 2 2 2 2 2 1 0 1 0
+
+BOS 1 . 0E - 6 ; 500 - 25   25 - 30ppm / Cel ; 1411   C0G   SURFACE   MOUNT , CERAMIC / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE . GAUGE . 0 . 1 . 0 . 1000   0 . 5 - 4 . 5V , CYLINDRICAL , EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE ; 300 . 400 , 9 ; 11 / 3 - NO ; YES - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE ; SEALED / 0 . 1 , 0 - 30 - 0 . 5 - 4 . 5V , CYLINDRICAL - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE ; GAGE , 0 . 25 , 0   0 . 144 / RECTANGULAR ; THROUGH   HOLE   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS 0 . 1 / 0 . 15 ; 10   100 / 0 . 82   CERAMIC , 1008 , 1 - DUAL   ENDED . EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SYNCHRONOUS   DRAM , 8 / 5 . 4 ; 16MX8 - CMOS , 0 . 8 , 3 . 3 - 3 . 3   EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS PRESSURE   SENSOR , STRAIN   GUAGE   GAGE ; 0 . 5 / 5000 / 0 . 10 - 5 . 10V , CYLINDRICAL . EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS DUAL - PORT   SRAM ; 8192 ; 8 , 70 / 1KX8   S - PQFP - G64 - CMOS - 3 . 3 , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0
+
+BOS 1 . 2E - 4 . 50 , 5 - 30ppm / Cel , SMT . 0805 / C0G / SURFACE   MOUNT - CERAMIC - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS TANTALUM   CAPACITOR   68 / 10 / 10 ; 10 - SMT   2711 - POLARIZED - TANTALUM   ( DRY / SOLID ) / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0
+
+BOS BOARD   CONNECTOR   74 / 2 / 2 . 0066   MALE / BOARD / 0 . 079 / SOLDER   KINKED   LEADS , EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS SPDT / MOMENTARY   THROUGH   HOLE - RIGHT   ANGLE . SOLDER , ON - ( ON ) - 0 . 01 , 100000 ; EOS
+BOS 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 2 1 2 1 0 1 0 2 2 2 2 2 2 2 2 1 0
+
+BOS TOGGLE   SWITCH , DPDT / 5 / THROUGH   HOLE - STRAIGHT , SOLDER - ON - ON   0 . 01 , 100000 / EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE ; SEALED / 0 . 1 . 0 / 100 / 0 . 5 - 4 . 5V , CYLINDRICAL - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0
+
+BOS CMOS ; 50   1 , 3 / SURFACE   MOUNT ; 15   pF . 0 . 5   PPM / FIRST   YEAR ; EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 0
+
+BOS CERAMIC   CAPACITOR - 2 . 2E - 4 / 630 - 5 . 5 . SMT , 1812 ; C0G . SURFACE   MOUNT . EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 4PDT   MOMENTARY ; 0 . 019   48 - 900 / 3 ; 30   DC . AC / DC . PANEL   MOUNT , EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE - GAGE   0 . 25 / 0 - 0 . 058 , RECTANGULAR - THROUGH   HOLE   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS CERAMIC   CAPACITOR / 630 - 2   2 , 30ppm / Cel / SMT - 2220   C0G - SURFACE   MOUNT - CERAMIC , EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE - 24 ; 5 / 21 - 32 - 3 - NO - YES / EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 10200 . 0 . 5   0 . 25 . 300 . 10   METAL   FILM / THROUGH   HOLE   MOUNT . Axial , EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR   1 - 0 . 4 . 10 , 25 . 2 / 0 . 27 . 1 - AXIAL - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS RC   NETWORK . ECL   TERMINATOR ; 0 . 2 . 120 / 2 ; 50 . THROUGH   HOLE   MOUNT   8 ; EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR ; 19   10   250 - 0 . 48 , CERAMIC . 0402   1 - DUAL   ENDED / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS STANDARD   SRAM - 65536 - 8 . 35 . 8KX8 - R - GDIP - T28 ; CMOS ; 2 . 54 . 5 , EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS DDR   DRAM   MODULE ; 8 . 589934592E9   64   128MX64 - R - XDMA - N240 , CMOS / 1 . 5 . EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED - 1 - 1 ; 600 . 0 , 100 , WATER   CLEAR . SINGLE - PANEL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS OPERATIONAL   AMPLIFIER , 4500 / 5 . 2 ; 7 . 2 . 0E - 4   14 - 4 - 5 - DUAL , EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS TOGGLE   SWITCH / SPDT ; 5   28 ; WIRE   WRAP   ON - ( ON ) ; 0 . 01 / 100000 . EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0 2 1 2 2 2 2 2 2 2 2 2 1
+
+BOS GENERAL   PURPOSE   INDUCTOR - 300 / 6 . 3 , 5   0 . 14 ; NON - MAGNETIC / 1 , AXIAL - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS MEMORY   CIRCUIT - 8 - 35   32X8 / S - XQCC - N20 . TTL - 1 . 27 , 5 , 5 - EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 2 2 2 2 2 2 2 1 0 1
+
+BOS GENERAL   PURPOSE   INDUCTOR - 0 . 005 . 10 ; 3 - Air . 1412 - 1 / DUAL   ENDED   Rectangular ; EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS LVCMOS . 40 ; 0 . 5 - 3 , SURFACE   MOUNT . 15   pF . 1   PPM / FIRST   YEAR ; EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0
+
+BOS TRANS   VOLTAGE   SUPPRESSOR   DIODE   1 . 61 ; 8 . 5 , 2 , 9 . 44 / DO - 215AB   EOS
+BOS 1 2 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS ROTARY   SWITCH ; 3PDT ; 0 . 15 . 250 - PANEL   MOUNT , SOLDER   LUG . 0 . 02 - 10000 - EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS 5 / 565 / 2   0 . 03 - 1   265 . 0 / 24 ; NONDIFFUSED . SINGLE , RADIAL   MOUNT ; EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED , 2 ; 0 . 02 ; 1 / 80 . 0 , DIFFUSED ; SINGLE , RADIAL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 68 , 0 . 66 ; 20 . 0 . 1   Ferrite   5137 . 1 / DUAL   ENDED . Magnetic   Shielding / EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS DPST ; LATCHED - 0 . 2 , THROUGH   HOLE - STRAIGHT / SOLDER , ON - OFF ; 0 . 025 - 100000 / EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS LVCMOS / 220 - 1 - 2 . 8 . SURFACE   MOUNT , 15   pF   1   PPM / FIRST   YEAR ; EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE / ABSOLUTE ; 0 . 1 - 0 - 200 , 0 . 5 - 4 . 5V , CYLINDRICAL   EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0
+
+BOS Power   Field - Effect   Transistors   N - CHANNEL ; SINGLE - 3 , 55 - 1 , 0 . 04 . 19 ; EOS
+BOS 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 2 / 0 . 5   200 ; 100 / METAL   GLAZE / THICK   FILM - SURFACE   MOUNT - 2010 . SMT , EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0
+
+BOS ROCKER   SWITCH   DP3T , LATCHED   AND   MOMENTARY , 8 - 12 . PANEL   MOUNT ; QUICK   CONNECT , 10000 . EOS
+BOS 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS FIXED   RESISTOR / 18000 , 0 . 25 ; 3 ; 20 - WIRE   WOUND , THROUGH   HOLE   MOUNT   Axial   EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0
+
+BOS THUMB / PUSHWHEEL   SWITCH - BINARY   CODED   DECIMAL - 0 . 1   28 / PANEL   MOUNT , SOLDER   100000 . EOS
+BOS 1 2 1 2 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 0 . 0018 , 100 ; 20 / 20 - 30ppm / Cel / SMT , 1206 ; C0G / SURFACE   MOUNT , CERAMIC   EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 3   1 / 60 . 0 / 50 . 0 / DIFFUSED , COMMON   CATHODE ,   2   ELEMENTS . PANEL   MOUNT / EOS
+BOS 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 2 2 2 2 2 2 2 2 2 1 0
+
+BOS DUAL   COLOR   LED / 2 - 1 / DIFFUSED , COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS   RADIAL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2
+
+BOS 1 . 8E - 6 . 100 ; 5 . 5556 . 5 . 5556 / - 1500ppm / Cel / SMT / 0202 / CERAMIC / EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 2 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 2 1 2 1 0 1 0 1 0 1 0
+
+BOS DUAL   COLOR   LED   2 ; 1 / DIFFUSED . COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS ; PANEL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2
+
+BOS ARRAY / NETWORK   RESISTOR - 909000 . 0 . 2 - 0 . 25 , 100 - - 25 , 25 / 0303   SMT   EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS DUAL   COLOR   LED / 2 , 1 , DIFFUSED . COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS , PANEL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2
+
+BOS ARRAY / NETWORK   RESISTOR - 11500 - 0 . 1 - 100 ; - 100 , 100 . THIN   FILM . 9810   SIP   EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS DUAL   COLOR   LED . 2 , 1 . DIFFUSED ; COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS , PANEL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2
+
+BOS DUAL   COLOR   LED . 2 . 1 / DIFFUSED , COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS . PANEL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE ; DIFFERENTIAL . 0 . 25 , - 23 . 2 - 23 . 2 , THROUGH   HOLE   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 2 1 0 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE / COMPOUND . 0 . 25 , - 14 . 7 / 0 . 5 - 4 . 5V . CYLINDRICAL . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 2 2 2 2 2 2 2 1 2 1 0 1 2 1 0
+
+BOS DUAL   COLOR   LED ; 2   1 ; DIFFUSED   COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS   PANEL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2
+
+BOS DUAL   COLOR   LED   2   1 . DIFFUSED - COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS - RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE ; COMPOUND - 0 . 1 ; - 1 . 15 . 0 . 5 - 4 . 5V   CYLINDRICAL ; EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0
+
+BOS FIXED   RESISTOR   2230   0 . 001 ; - 2 . 5 , 2 . 5 , METAL   FOIL / UNK , Radial   EOS
+BOS 1 2 1 0 1 0 1 2 1 0 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 2 2 2 2 2 2 2 2 2 2 2 2 2
+
+BOS DUAL   COLOR   LED . 2 / 1 - DIFFUSED ; COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS . PANEL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2
+
+BOS 3 . 1   60 . 0 / 50 . 0 , DIFFUSED , COMMON   CATHODE ,   2   ELEMENTS . RADIAL   MOUNT / EOS
+BOS 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 2 2 2 2 2 2 2 2 1 0
+
+BOS SINGLE   COLOR   LED . 12 , 2 . 1 , 4200 . 0 - 60 / WATER   CLEAR , SINGLE , PANEL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS 0 . 12   0 . 63 , 10 / 25 ; 0 . 65 / CERAMIC - FERRITE - 1008 - 1 ; DUAL   ENDED . EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR - 68 , 0 . 31 . 10   FERRITE / 5341   1   DUAL   ENDED ; Choke   Coil - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR ; 10   0 . 005 - 10 . 0 . 001 . 27   Ferrite , 1 , RADIAL / Bobbin . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE - 48 . 24 ; 42 . 60   26 . 4 - 3 - NO / EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED ; 2 , 0 . 02 ; 1 / 2000 . 0 - WATER   CLEAR ; SINGLE / RADIAL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS MASK   ROM - 2097152 ; 8 - 150 , 256KX8 . R - PDSO - G32 ; CMOS - 1 . 27 / 3 . 3 - EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED . 2 . 0 . 02 . 1 / 17000 . 0 . WATER   CLEAR . SINGLE ; RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS ALUMINUM   ELECTROLYTIC   CAPACITOR . 33 ; 350   20 ; 20 / THROUGH   HOLE   MOUNT ; POLARIZED / ALUMINUM   ( WET ) , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0
+
+BOS NON - VOLATILE   SRAM / 65536 , 8   35 ; R - PDSO - G28 . CMOS ; 1 . 27 - 5 - 5 / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS 5 / 464 , 2 - 0 . 03   1 , 460 . 0 - 25 ; CLEAR   NONDIFFUSED , SINGLE , RADIAL   MOUNT , EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS RC   NETWORK ; BUSSED - 0 . 125 - 91 ; 5 . 50 ; 2 . 2E - 5 / SURFACE   MOUNT   10 / EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR ; 2 . 0 . 25   100 - 100 - METAL   GLAZE / THICK   FILM   SURFACE   MOUNT   1005 - EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0
+
+BOS STANDARD   SRAM , 65536 ; 4 ; 30   16KX4 . R - XQCC - N28 , CMOS   1 . 27 ; 5 / 5 . EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS SYNCHRO   OR   RESOLVER   TO   DIGITAL   CONVERTER , 5 / 90   60 - 16 / R - CDFP - F36 ; HYBRID - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS 71 . 5 - 1 / 0 . 2 - 75 ; 300 ; METAL   GLAZE / THICK   FILM / SURFACE   MOUNT   1005 , EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL . 4 . 999 , 5   PPM / YEAR   50 . 0 . 0035 . 100 , 180 / 18 / EOS
+BOS 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS 5 - 2   1 - 3000 - 90 / WATER   CLEAR / SINGLE   WITH   BUILT - IN   RESISTOR . PANEL   MOUNT - EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 2 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED , 2 . 0 . 02 . 1 ; 11000 . 0 ; WATER   CLEAR ; SINGLE . PANEL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED   580 ; 2 / 0 . 05 , 1 . 18 . WATER   CLEAR / SINGLE ; RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS DP3T ; 0 . 5 ; 125 ; PANEL   MOUNT - SOLDER   LUG , ON - ON - ON ; 0 . 01   6000 . EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS LVCMOS . 26 . 0 . 28 / 3 . 3 / SURFACE   MOUNT / 15   pF   1   PPM / FIRST   YEAR   EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 2
+
+BOS SERIES   -   9TH   OVERTONE - 6 . 4   3   PPM / YEAR ; 25 ; 0 . 005 / 100 - 40 . EOS
+BOS 1 2 2 2 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 2 2 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 24 . 5535 - 0 . 5   2 . 5 / SURFACE   MOUNT   15   pF . 1   PPM / FIRST   YEAR . EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 2
+
+BOS FIXED   RESISTOR / 43000 . 2 ; 0 . 2 ; 150 , 100 ; THIN   FILM / SURFACE   MOUNT   0805 - SMT - EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS Small   Signal   Bipolar   Transistors , 0 . 08 ; NPN ; SINGLE   WITH   BUILT - IN   RESISTOR . 3 . 1   EOS
+BOS 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED - 2   0 . 02 , 1   4400 . 0 - WATER   CLEAR / SINGLE , PANEL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS FIXED   RESISTOR , 7 . UNK , 0 . 5 / 0 . 33 ; 1500 ; 25 ; SURFACE   MOUNT , 1206   SMT   EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS STANDARD   SRAM ; 262144 . 4 - 12 / 64KX4 ; R - PDSO - J28 . CMOS   1 . 27 / 5 ; 5 ; EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS OPERATIONAL   AMPLIFIER , 10000   1 . 6   3 . 6 , 6 . 0E - 5 - 14 - 4   5 / DUAL . EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR - 0 . 068 / 1 / 5 / 250 - 0 . 23 . CERAMIC - 1 , DUAL   ENDED ; EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS 2 . 2E - 4 , 200 ; 2   2 , 30ppm / Cel . 1411   C0G ; THROUGH   HOLE   MOUNT   CERAMIC . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR - 1 . 5 ; 10   7 . 9   0 . 14   FERRITE , 1 / DUAL   ENDED . EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS FIXED   RESISTOR , 5110   1 , 0 . 25 / 200   50 , THIN   FILM . SURFACE   MOUNT . 1206 , SMT   EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS PRESSURE   SENSOR , STRAIN   GUAGE , GAGE / 0 . 25 / 0 . 300   0 . 10 - 5 . 10V . CYLINDRICAL   EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS TOGGLE   SWITCH . DPDT . 5 - 28 / THROUGH   HOLE - STRAIGHT . SOLDER . ON - ON   0 . 01 / 100000 - EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED - 10 . 2 , 0 . 016 , 1   1000 . 0 , DIFFUSED ; SINGLE - PANEL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 3 . 3E - 4 / 25 - 1 - 1 / 30ppm / Cel ; SMT / 1206 . C0G . SURFACE   MOUNT ; CERAMIC   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS ROTARY   SWITCH ; SP6T - CIRCULAR - 0 . 15 ; 250 ; PANEL   MOUNT ; SOLDER   LUG / 0 . 02 , 10000 ; EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE   48 / 2 - 60 - 1 / 2 . 2 . 3 ; YES   EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS RC   NETWORK / TERMINATOR   0 . 125   130   5 - 50 / 6 . 8E - 4 , SURFACE   MOUNT . 10 / EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0
+
+BOS MULTI - PORT   SRAM   16384 , 8 , 100 ; 2KX8 / S - XQCC - N48 , CMOS / 1 / 5   5 , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS TANTALUM   CAPACITOR . 0 . 47 / 50 ; 20 ; 20   SMT   2005 ; POLARIZED / TANTALUM   ( DRY / SOLID ) , EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS 0 . 02   0 . 25   5 . 250   0 . 42 - CERAMIC . 0502 - 1 , DUAL   ENDED , Chip - EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS FLASH   MODULE , 3 . 3554432E7 ; 32 / 90 / 1MX32   S - CPGA - P66   CMOS / 2 . 54 - 5 ; EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0
+
+BOS 0 . 27   0 . 5 / 10 ; 25 / 0 . 25 / FERRITE , 1206 / 1   DUAL   ENDED   Chip ; EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE / 28   21 . 32 ; 14 . 30 . 8 . 3   YES , EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS FLASH   2097152 / 16   70   128KX16 / R - PDSO - G44 - 1 . 27 , 3 , 3 / 3 . 3 . EOS
+BOS 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS TANTALUM   CAPACITOR . 2 . 2 , 35 / 20 . 20 - SMT . 2910 ; POLARIZED / TANTALUM   ( DRY / SOLID )   EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE / 48 / 15 - 76 . 16 . 5 ; 3 - NO - YES   EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS ROTARY   SWITCH   3P4T / CIRCULAR , 0 . 15 , 250   THROUGH   HOLE - STRAIGHT . SOLDER - 0 . 02   10000 . EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR / 1 . 5   0 . 085   20 / 0 . 1 - FERRITE - 1 , DUAL   ENDED . EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS DPDT . MOMENTARY   0 . 1 . 5 - 500   0 . 25 - 28 , DC / AC / DC - PANEL   MOUNT - EOS
+BOS 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS ROTARY   SWITCH   DP3T / CIRCULAR . 0 . 15   250 ; THROUGH   HOLE - STRAIGHT   SOLDER . 0 . 02 , 10000 . EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0
+
+BOS MOMENTARY   5 , THROUGH   HOLE - STRAIGHT - WIRE   WRAP / ON - OFF - ( ON ) ; 0 . 01 - 100000 , EOS
+BOS 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 2 1 2 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 2 1 0 1 2 1 0 2 1 2 2 2 2 2 2 2 2 2 2 2 2
+
+BOS PARALLEL   -   FUNDAMENTAL - 2 . 01 ; 1   PPM / YEAR . 3 , 0 . 01 , 100   400 , 32 , EOS
+BOS 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS SNAP   ACTING / LIMIT   SWITCH   SPDT   MOMENTARY - THROUGH   HOLE - RIGHT   ANGLE   SOLDER , ON - ( ON ) - EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE ; 300   2 ; 400 / 1   2 . 2 , 2 , YES   EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS FIXED   RESISTOR ; UNK   0 . 1 , 0 . 0625 - 50 , 50   THIN   FILM - SURFACE   MOUNT . 0603 - EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE ; 48 . 48   36 , 24 ; 52 . 8 ; NO , YES , EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE - ABSOLUTE   0 . 25 / - 23 . 2 , 23 . 2 , RECTANGULAR , THROUGH   HOLE   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 2 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR , 240000   5 - 0 . 35 - - 300 , 300 , METAL   GLAZE / THICK   FILM , 1605   SMT   EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 2 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0
+
+BOS ARRAY / NETWORK   CAPACITOR / 1 . 5E - 4 / 20 - - 82 / + 22 % - Y5V . THROUGH   HOLE   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 2 1 2 1 0 1 0 2 1 2 2 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 2 1 0 2 2 2 2 2 2 2 2 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE / COMPOUND . 0 . 1 / - 14 . 7 ; 50 / 0 . 5 - 4 . 5V ; CYLINDRICAL   EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS PRESSURE   SENSOR , STRAIN   GUAGE , GAGE   0 . 15 / - 15 , 0   0 . 50 - 5 . 50V / CYLINDRICAL   EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 2 1 0 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0
+
+BOS FIXED   RESISTOR   6 . 65 / 0 . 25 . 1 , 150 , - 100 , 100 . THIN   FILM - 2512 . SMT / EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 2 ; 1   14 . 0 / 10 . 0 - DIFFUSED   COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS . PANEL   MOUNT , EOS
+BOS 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE - COMPOUND . 0 . 25 / - 14 . 7 / 5000 / 0 . 5 - 4 . 5V ; CYLINDRICAL / EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS TRIPLE   COLOR   LED - 3 . 1 / 15 . 0 / 30 . 0 / DIFFUSED - COMMON   CATHODE ,   2   ELEMENTS . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE / COMPOUND - 0 . 25 . - 14 . 7   5 . 0 . 5 - 4 . 5V ; CYLINDRICAL - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 2 2 2 2 2 2 2 1 0 1 2 1 0
+
+BOS CERAMIC   CAPACITOR ; 1 . 3E - 4 ; 100 / 20 / 20   15 % . 0505 , X7R . SURFACE   MOUNT - CERAMIC . EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE / COMPOUND - 0 . 25 ; - 1   10152 . 64   0 - 5V / CYLINDRICAL / PANEL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS FIELD   PROGRAMMABLE   GATE   ARRAY , 6144   CLBS ,   250000   GATES - CMOS . S - XBCC - B180 - 0 . 5 , EOS
+BOS 1 2 1 2 1 2 1 0 1 2 1 2 2 1 2 1 0 1 0 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 2 2 2 2 2 1 0 1 0 1 2 1 0 1 0
+
+BOS HCMOS / LSTTL   20 . 48 , 25   5 / THROUGH   HOLE   MOUNT - 5   LS   TTL ,   30   pF / EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 2 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 2 1 0
+
+BOS 100 - 10 ; 3 . 3 , SURFACE   MOUNT / 10   KOHM ,   15   pF   2   PPM / FIRST   YEAR   EOS
+BOS 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 2 2 1 2 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 2 2 2 2 2 2 2 2 2 1 2 1 0
+
+BOS 3 . 15 . 0 / 30 . 0 / 10 . 0 . DIFFUSED , COMMON   CATHODE ,   2   ELEMENTS ; PANEL   MOUNT . EOS
+BOS 1 0 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 2 1 2 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE . COMPOUND - 0 . 1 / - 14 . 7 . 30   0 . 5 - 4 . 5V ; CYLINDRICAL ; EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 2 2 2 2 2 2 2 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR   UNK , 0 . 05 ; 0 . 175 ; 100   - 100 , 100   THIN   FILM / 0510 ; SMT . EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS CERAMIC   CAPACITOR . 2 . 2E - 4 / 25   5   5 , 15 % / 1210   BZ - SURFACE   MOUNT   CERAMIC - EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR   0 . 039 . 0 . 25 ; 2 . 200 - 600 , CERAMIC . 0603 ; 1 ; DUAL   ENDED . EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS TOGGLE   SWITCH . DPDT ; THROUGH   HOLE - STRAIGHT / SOLDER   ( ON ) - OFF - ( ON ) / 0 . 01 ; 100000 - EOS
+BOS 1 2 1 0 1 0 1 2 1 2 1 0 1 0 2 1 2 2 1 2 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 2 1 0 1 0 2 2 2 2 2 2 2 2 2 2 2 1 0 1 0
+
+BOS ROTARY   CODED   SWITCH ; UNK   0 . 2 . 42 / THROUGH   HOLE - RIGHT   ANGLE   SOLDER ; 0 . 05 ; 10000 , EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0
+
+BOS FIXED   RESISTOR , 8450 / 0 . 1 , 40 ; 100 , METAL   GLAZE / THICK   FILM / SURFACE   MOUNT . 0504 ; SMT . EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0
+
+BOS TOGGLE   SWITCH . SPDT ; MOMENTARY   THROUGH   HOLE - STRAIGHT . SOLDER . ON - OFF - ( ON ) - 0 . 01 , 100000 - EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 2 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 2 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR - 232 - 0 . 5 , 0 . 5 / 150   50 , THIN   FILM - SURFACE   MOUNT - 1010   SMT , EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS FIXED   RESISTOR . 226 - 0 . 1 - 0 . 125 , 50 , 50 - THIN   FILM ; SURFACE   MOUNT . 0505 , SMT , EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS RC   NETWORK . ECL   TERMINATOR . 0 . 2 / 160   5 / 50   0 . 0015 . THROUGH   HOLE   MOUNT - 10 ; EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR . 0 . 01 - 0 . 3 , 10 / 100 . 0 . 3   CERAMIC , 1 / DUAL   ENDED , EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS LVCMOS . 24 . 5535 , 0 . 5 , 2 . 8   SURFACE   MOUNT   15   pF - 1   PPM / FIRST   YEAR / EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 0
+
+BOS 15 . 36 . 1 . 5 / 2 . 8 . THROUGH   HOLE   MOUNT , 15   pF . 1   PPM / FIRST   YEAR ; EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 2 1 2 1 2 1 0
+
+BOS FLASH - 6 . 7108864E7 / 16 - 60 / 4MX16 . R - PDSO - G48   CMOS - 0 . 5 . 3 / 3 . 3 - EOS
+BOS 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0
+
+BOS EEPROM , 65536 . 8 ; 8KX8 / R - PDSO - G8 , CMOS - 1 . 27 / 3 . 3 ; 2 / 3 . 3 - EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS TOGGLE   SWITCH . DPDT / THROUGH   HOLE - STRAIGHT , SOLDER   ( ON ) - OFF - ( ON ) . 0 . 01 . 100000 . EOS
+BOS 1 2 1 0 1 0 1 2 1 2 1 0 1 0 2 1 2 2 1 2 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 2 1 0 1 0 2 2 2 2 2 2 2 2 2 2 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE . 48 . 48 / 60 , 24 ; 52 . 8 ; 3 - NO - YES , EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS FIXED   RESISTOR   5 . 9 / 1 - 0 . 25 , 250 / 200 . METAL   FILM ; THROUGH   HOLE   MOUNT - Axial / EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR   1640   0 . 1 , 0 . 15 ; 50 . 50 . THIN   FILM ; SURFACE   MOUNT   0805 - SMT ; EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR ; 56 . 1 . 3 , 20 . 0 . 1 , 0 . 33 ; 1616 ; 1 ; DUAL   ENDED ; EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE / 24 / 18 - 36 , 1 ; 2 . 2 . 3 . NO ; YES / EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS TANTALUM   CAPACITOR   4 . 7 - 4 / 20   20 - 1505 . SURFACE   MOUNT / POLARIZED ; TANTALUM   ( DRY / SOLID ) , EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS DUAL - PORT   SRAM ; 262144 / 16 - 55 - 16KX16 - S - PBGA - B100 / CMOS . 0 . 5   1 . 8 / EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR ; UNK / 1 / 0 . 1 - 75   100 ; METAL   GLAZE / THICK   FILM , SURFACE   MOUNT - 0603 , EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0
+
+BOS 1 . 8 / 0 . UNK / 20 / 0 . 1   19 / POWDERED   METAL , 5451 ; 1 ; DUAL   ENDED - Rectangular ; EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS TANTALUM   CAPACITOR , 6 . 8   10 , 5 - 5 ; 2005 , SURFACE   MOUNT . POLARIZED , TANTALUM   ( DRY / SOLID ) / EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS ALUMINUM   ELECTROLYTIC   CAPACITOR . 330 ; 16   20   20 ; SMT - 3333 ; SURFACE   MOUNT / POLARIZED . ALUMINUM   ( WET ) . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE . 300 / 10 - 200   400 / 9 - 11 . 3 ; NO   YES - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS TOGGLE   SWITCH / SPDT - LATCHED ; 5 . 28 , THROUGH   HOLE - STRAIGHT , SOLDER ; ON - ON   0 . 01   100000 - EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR / 1640   0 . 1   0 . 0625 / 50 / 25   THIN   FILM   SURFACE   MOUNT ; 0603 . SMT ; EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR . 2800 ; 1 , 0 . 5 . 500 / 100 . METAL   GLAZE / THICK   FILM , SURFACE   MOUNT   2010   EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR , 965 . 0 . 1 ; 0 . 125 . 50   25   THIN   FILM . SURFACE   MOUNT ; 0505 , SMT ; EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR - 154000 / 0 . 1 - 0 . 8   150   50   THIN   FILM . SURFACE   MOUNT - 2010 - SMT , EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS CERAMIC   CAPACITOR . 0 . 0022 . 500 - 1 . 1 ; 30ppm / Cel   SMT - 2225 - C0G - SURFACE   MOUNT / CERAMIC ; EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE - 110 ; 10 ; 66 / 160 - 5 . 11 , 1 - NO / YES / EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SYNCHRONOUS   DRAM . 2 . 68435456E8 - 16 , 5 / 16MX16 , R - PDSO - G54   CMOS - 0 . 8 / 3 . 3 . EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0
+
+BOS DUAL - PORT   SRAM ; 16384   8 . 25 ; 2KX8 - R - PDIP - T48 ; CMOS   2 . 54 / 5 - 5 ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0
+
+BOS FIXED   RESISTOR . 73200   0 . 1   0 . 15 / 125 . 50   THIN   FILM , SURFACE   MOUNT , 1505 , SMT . EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS DUAL   COLOR   LED . 2 - 1 . 15 . 0 ; DIFFUSED - COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS - RADIAL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 2 2 2 2 2 1 0
+
+BOS TRIPLE   COLOR   LED , 3 ; 1 . 80 . 0 / 50 . 0 / COMMON   CATHODE ,   2   ELEMENTS - PANEL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 2 1 0
+
+BOS DUAL   COLOR   LED . 2 ; 1 ; 15 . 0 ; DIFFUSED   COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS / RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 2 2 1 0
+
+BOS DUAL   COLOR   LED . 2 , 0 . 02   1 / 15 . 0 . DIFFUSED   COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0
+
+BOS CERAMIC   CAPACITOR , 0 . 051 . 1000 . 20 - 20 / 15 % , Radial ; UNK . X7R . THROUGH   HOLE   MOUNT   CERAMIC - EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS DUAL   COLOR   LED ; 2 . 1   10 . 0 - DIFFUSED - COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS   PANEL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 2 2 2 1 2 1 0
+
+BOS DUAL   COLOR   LED , 2   1 , 15 . 0 , DIFFUSED   COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS . RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 2 1 0
+
+BOS FIXED   RESISTOR . 88 . 7 . 0 . 1   0 . 125 . 40 / - 200 , 200 . THIN   FILM / 0605 / SMT ; EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS CERAMIC   CAPACITOR ; 2 . 7E - 4 . 25 / 10 ; 10 ; 15 % / SMT   0603 , X8R . SURFACE   MOUNT   CERAMIC , EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 3 . 610 / 565 , 12 . 0 . 03 ; 6   20 . 0 , 36 , SEPARATE ,   6   ELEMENTS . RADIAL   MOUNT . EOS
+BOS 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0
+
+BOS CERAMIC   CAPACITOR ; 6 . 8E - 4 ; 100 / 20 , 20   - / + 15ppm / Cel ; SMT , 0805 . X7R , CERAMIC . EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 2 2 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 2 2 2 2 2 2 2 2 1 0 1 0 1 0
+
+BOS CERAMIC   CAPACITOR ; 3 . 9E - 4 / 16 . 10 , 10 / 15 % - SMT , 0603 , BX / SURFACE   MOUNT ; CERAMIC ; EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED . 3 - 635 - 2 / 0 . 015 / 60   TINTED   DIFFUSED   SINGLE   WITH   BUILT - IN   RESISTOR - EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS 10 - 20   1   30 / L11 . 35XB4 . 65XH13 . 46   ( mm ) / L0 . 447XB0 . 183XH0 . 53   ( inch ) , EOS
+BOS 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 2 1 0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 0
+
+BOS SINGLE   COLOR   LED - 5 , 635   2 - 0 . 03   1 - 55 . 0   32   NONDIFFUSED ; SINGLE . RADIAL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE - 24 . 24 ; 21 . 32 - 12 ; 26 . 4 / 3   NO / YES   EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS TANTALUM   CAPACITOR   0 . 68 - 50 ; 20 - 20 / SMT / 1510 - SURFACE   MOUNT . POLARIZED . TANTALUM   ( DRY / SOLID ) . EOS
+BOS 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE , 24 / 24 / 18 / 36 ; 12 - 26 . 4 / 3 . NO ; YES ; EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 5 . 26 ; 2 / 1 ; 110 - SINGLE   WITH   BUILT - IN   ZENER   DIODE . SURFACE   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE . 300 / 2   200 / 400 , 1 - 2 . 2 - 3 ; NO / YES ; EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS CERAMIC   CAPACITOR   2 . 7E - 5   5   5 . - 1000 / + 350ppm / Cel - SL . THROUGH   HOLE   MOUNT ; CERAMIC ; EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 0 1 0 2 1 2 2 1 2 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 0 1 0 1 2 2 2 2 2 2 2 2 2 1 0 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE   300 . 28 ; 200 . 400 . 14 , 30 . 8 , 3 , NO ; YES ; EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 5 . 565 / 2 . 0 . 015 - 1   60 - TINTED   DIFFUSED ; SINGLE   WITH   BUILT - IN   RESISTOR   RADIAL   MOUNT / EOS
+BOS 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 0
+
+BOS POWER / SIGNAL   RELAY ; DPDT . MOMENTARY   0 . 018 , 28 . 504 . 28 / DC - DC   THROUGH   HOLE - STRAIGHT   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS MULTI - DELAY   RELAY   MOMENTARY . 0 . 083 . 24 ; 2000 - 30 , 28 ; DC . AC / DC   SURFACE   MOUNT - STRAIGHT . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE . 48 / 24 , 36 . 76 / 12   26 . 4 / 3 . NO / YES   EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS HCMOS - 77 . 76 . 1 . 5 / 2 . 8 / THROUGH   HOLE   MOUNT . 15   pF , 1   PPM / FIRST   YEAR   EOS
+BOS 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 2
+
+BOS TOGGLE   SWITCH . SPDT / MOMENTARY . 5   28 - THROUGH   HOLE - STRAIGHT / WIRE   WRAP / ON - OFF - ( ON ) , 100000 / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE . 48 / 48 , 36 - 76   24 / 52 . 8   3 / NO , YES . EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE ; 24 ; 28 ; 21 / 32 . 14 - 30 . 8 - 3 - NO / YES , EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS FIXED   RESISTOR / 37400 - 1   0 . 5 - 75 , 100   METAL   GLAZE / THICK   FILM - SURFACE   MOUNT   1010 - SMT , EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE . 24 , 28 ; 21 / 32 . 14 ; 30 . 8 - 3 ; NO / YES - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE - 300 - 28 , 200 . 400 ; 14 , 30 . 8 - 3 ; NO   YES . EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS TOGGLE   SWITCH / SPDT   MOMENTARY , 5 / 28 ; PANEL   MOUNT / SOLDER   LUG - ON - ( ON ) / 0 . 01 , 100000 , EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE ; 24 - 24   21 / 32 ; 12 ; 26 . 4   3 - NO - YES   EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED - 1 . 2 / 2 - 0 . 02   1 - 115 . 0 , COLORLESS   TRANSPARENT . SINGLE   SURFACE   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE / 48 . 24 , 36 / 76 , 12   26 . 4 ; 3 . NO , YES ; EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS TOGGLE   SWITCH   DPDT - 5 - 28 ; THROUGH   HOLE - STRAIGHT , SOLDER , ON - OFF - ( ON ) , 0 . 01 . 100000 / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 2 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED , 516 , 4 . 0 . 03   1 ; UNK . 0 - 40   TINTED   DIFFUSED - SINGLE / SURFACE   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE ; 60 . 15 . 28   140 , 6 - 16 . 5   2 . NO / YES / EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS RC   NETWORK - ECL   TERMINATOR / 0 . 2 , 360 - 2 ; 50 ; 1 . 5E - 4   THROUGH   HOLE   MOUNT - 8 , EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED . 3 - 700 , 2 / 0 . 03   1 , 1 / DIFFUSED   PASTEL   RED ; SINGLE - RADIAL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE , 24 , 48 , 21   32 / 24 . 52 . 8 , 3 , NO . YES   EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED / 565 / 2 . 0 . 02 . 1   80 . 0 , WATER   CLEAR   TINTED - SINGLE ; RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE / 300 ; 2 ; 200 - 400 , 1 ; 2 . 2 . 3 / NO - YES ; EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED ; 3 ; 645 - 2 - 0 . 03 , 1 ; 45 . 0 - 60 / TINTED   DIFFUSED , RADIAL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE   300 ; 5 ; 400 . 2 . 5 - 5 . 5 . 3 ; NO - YES - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE ; 300 - 12 - 200   400 - 10 . 8 - 13 . 2 / 3 / NO / EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS DUAL   COLOR   LED . 2 , 0 . 02   1 / 10 . 0 . COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS . PANEL   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 0
+
+BOS ARRAY / NETWORK   CAPACITOR - 4 . 3E - 5 . 100 / 5 , 5 / - 82 / + 22 % ; Y5V - THROUGH   HOLE   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 2 1 2 2 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS TRIPLE   COLOR   LED ; 3 ; 1 / 60 . 0 / 50 . 0 , DIFFUSED   COMMON   CATHODE ,   2   ELEMENTS . RADIAL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 0
+
+BOS TRIPLE   COLOR   LED / 3 ; 1 ; 15 . 0 / 30 . 0 / 10 . 0 / DIFFUSED - COMMON   CATHODE ,   2   ELEMENTS   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 2 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE - 24 . 12 . 21 - 32 ; 10 . 8 ; 13 . 2 - 3 ; NO ; YES . EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS FIXED   RESISTOR - 953000 / 0 . 5 ; 0 . 25 / 200 - 100 , METAL   GLAZE / THICK   FILM , SURFACE   MOUNT / 1206 - SMT   EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS SYNCHRO   OR   RESOLVER   TO   DIGITAL   CONVERTER / 5 . 90 ; 5000 - 1 . 25   8 . 14 - R - XDMA - P28 - HYBRID / EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE   28 / 5   16 . 40 , 4 . 95 . 5 . 05 - 4   YES . NO / EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SYNCHRO   OR   RESOLVER   TO   DIGITAL   CONVERTER - 15 , 90 / 2 . 5 , 2 . 3 ; 16 , R - XDIP - P36 ; HYBRID ; EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE - 24 , 5 . 21   32   2 . 5 . 5 . 5 , 3   NO , YES - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE / 24 . 3 . 3   36 / 1 . 65   3 . 63 , 3   NO , YES . EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR ; 0 . 18 - 0 . 12 - 2 , 25 . 1 . 29   Iron / 1812 / 1 ; DUAL   ENDED ; Shield - EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 5 . 2 / 570   2 , 0 . 05 ; 1 . 30 / WATER   CLEAR   SINGLE   WITH   BUILT - IN   DIODE , RADIAL   MOUNT / EOS
+BOS 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE - 48 ; 5 , 42 , 60 ; 2 . 5 ; 5 . 5 , 3 . NO   YES - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED . 9 . 9 , 635 . 2 ; 0 . 016   1 - 120 . 0 , 35 , TINTED / SINGLE - PANEL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS FIXED   RESISTOR / 1 . UNK - 0 . 25 / 2 - 3000 ; 200 / METAL   GLAZE / THICK   FILM . SURFACE   MOUNT - 2512 - SMT ; EOS
+BOS 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE ; 24 . 12 ; 18   36 , 10 . 8 . 13 . 2 ; 3 - NO - YES . EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE . 3 . 3 ; 3 . 3 . 2 . 97 / 3 . 465 , 2 ; NO . NO / EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS Power   Field - Effect   Transistors , N - CHANNEL / SINGLE   WITH   BUILT - IN   DIODE ; 3 / 55 ; 1 - 0 . 038 ; 34 . EOS
+BOS 1 2 1 2 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 0 1 0 1 0
+
+BOS TOGGLE   SWITCH   SPDT , MOMENTARY . 5 ; 28 . THROUGH   HOLE - RIGHT   ANGLE . SOLDER / ON - ( ON ) , 0 . 01 / 40000 / EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS DUAL   COLOR   LED - 2   1 ; 14 . 0 / 10 . 0   DIFFUSED ; COMMON   BIPOLAR   TERMINAL ,   2   ELEMENTS   PANEL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 2 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 0
+
+BOS EE   PLD - 0   DEDICATED   INPUTS ,   100   I / O ; 100 . 15 / 128   CMOS . S - PQFP - G160   0 . 65 / EOS
+BOS 1 2 1 0 1 2 1 2 1 2 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE ; DIFFERENTIAL ; 0 . 25 . - 23 . 206 - 23 . 206 - 0 . 20 - 0 . 80V ; RECTANGULAR . SURFACE   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS CERAMIC   CAPACITOR ; 4 . 3E - 6 , 250 ; 5 . 814 ; 5 . 814 , - / + 30ppm / Cel   SMT / 0606 / A . CERAMIC ; EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 2 2 2 1 2 1 0 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE / DIFFERENTIAL ; 0 . 25 , - 3 . 626 / 3 . 626 - 0 . 20 - 0 . 80V . RECTANGULAR . SURFACE   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 7 . 8E - 6 ; 100 - 6 . 41 . 6 . 41 ; - 220 + / - 30ppm / Cel   0603 ; UNK   SURFACE   MOUNT   CERAMIC - EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0 2 1 2 2 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 2 2 2 2 2 2 2 2 2 1 0 1 0 1 0
+
+BOS POWER / SIGNAL   RELAY . DPDT / MOMENTARY / 0 . 063 , 12 . 6   794 , 5 , DC / AC / DC ; THROUGH   HOLE - STRAIGHT   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED . 9 . 9   520 / 2 / 0 . 01   1 - 2400 . 0 / 45 ; WATER   CLEAR   SINGLE ; PANEL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS GENERAL   PURPOSE   INDUCTOR . 4 . 7 . 0 . 105 / 30 . 0 . 1 , 0 . 9 - 1515   1 / DUAL   ENDED , Magnetically   Shielded ; EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0
+
+BOS 24 . 01 / 50 / 0 . 0035 , 100 ; L11 . 5XB5 . 0XH3 . 5   ( mm ) / L0 . 453XB0 . 197XH0 . 138   ( inch ) - EOS
+BOS 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 EOS
+translation: 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 2 1 2 2 2 2 1 2 1 2 1 2 1 2 1 2 1
+
+BOS SINGLE   COLOR   LED - 9 . 9 . 2 . 0 . 004   1   700 . 0 . 45 / WATER   CLEAR   DIFFUSED . SINGLE / PANEL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE , 300 ; 3 . 3   200 . 400 . 1 . 65 - 3 . 63 / 3   NO , YES - EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE   24 , 3 . 3 / 18 . 36 / 1 . 65 ; 3 . 63 . 3 , NO . YES / EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS DC - DC   REGULATED   POWER   SUPPLY   MODULE , 24 , 3 . 3   21   32 . 1 . 65   3 . 63   3 . NO / YES / EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS TOGGLE   SWITCH ; SPDT - MOMENTARY / 5 ; 28   THROUGH   HOLE - STRAIGHT . WIRE   WRAP . ON - OFF - ( ON ) , 0 . 01 , 100000 . EOS
+BOS 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 2 1 2 2 1 0 1 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 1 2 1 0
+
+BOS EE   PLD . 0   DEDICATED   INPUTS ,   32   I / O   58 . 8 - 10 / 32 . CMOS   S - PQFP - G48 ; 0 . 5 ; EOS
+BOS 1 2 1 0 1 2 1 2 1 2 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0
+
+BOS PRESSURE   SENSOR , PEIZORESISTIVE   DIFFERENTIAL - 0 . 25 . - 58 . 015 , 58 . 015 - 0 . 20 - 0 . 80V - RECTANGULAR - THROUGH   HOLE   MOUNT . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 2 1 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SINGLE   COLOR   LED   3 ; 565 - 2 , 0 . 015   1   60 ; TINTED   DIFFUSED / SINGLE   WITH   BUILT - IN   RESISTOR   RADIAL   MOUNT ; EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED   7 . 1 ; 635 ; 2 / 0 . 05 / 1 / 6500 ; DIFFUSED ; SINGLE   WITH   BUILT - IN   DIODE   RADIAL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED . 5   635 . 2 , 0 . 015 , 1 / 60 , TINTED   DIFFUSED   SINGLE   WITH   BUILT - IN   RESISTOR - RADIAL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS SYNCHRO   OR   RESOLVER   TO   DIGITAL   CONVERTER . 15 - 11 . 8 , 1000 ; 2 . 5 . 4 . 3 . 16 - R - XDIP - P36 , HYBRID   EOS
+BOS 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 26   5   PPM /   FIRST   YEAR - 15 / 0 . 015   100 , 50 / 8 . 0mm   X   4 . 5mm   X   1 . 4mm ; 8 / EOS
+BOS 1 0 1 2 1 2 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED   ARRAY / 2 / 660   8 ; 0 . 03 ; 4 - 1 . 025 . 100 - DIFFUSED . SEPARATE ,   4   ELEMENTS , RADIAL   MOUNT . EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS DUAL   COLOR   LED   ARRAY . 3 , 630 / 585   12 , 0 . 02 / 6   20 . 0 , 36 / SEPARATE ,   6   ELEMENTS . RADIAL   MOUNT   EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SERIES   -   FUNDAMENTAL - 20 ; 5   PPM /   FIRST   YEAR - 15 . 10 , 100 / 2 . 0mm   X   1 . 6mm   X   0 . UNK , EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 2 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 0 EOS
+translation: 1 2 2 1 0 1 0 1 2 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS 5   PPM / YEAR . 20 / 0 . 01 , 1000 ; L10 . 8XB4 . 47XH2 . 1   ( mm ) / L0 . 425XB0 . 176XH0 . 083   ( inch ) - 18 . EOS
+BOS 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 0
+
+BOS 5   PPM / FIRST   YEAR ; 10 , 0 . 001 ; L12 . 9XB4 . 7XH3 . 2   ( mm ) / L0 . 508XB0 . 185XH0 . 126   ( inch ) - 16 / EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+
+BOS PARALLEL   -   FUNDAMENTAL - 5 / 0 . 005 ; 1000 / 80   L10 . 5XB4 . 0XH14 . 0   ( mm ) / L0 . 413XB0 . 157XH0 . 551   ( inch ) . 30 ; EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+
+BOS 20 . 000001 . 5   PPM / YEAR / 30 . 100   80 / L3 . 2XB2 . 5XH1 . 1   ( mm ) / L0 . 126XB0 . 098XH0 . 043   ( inch ) ; 8 ; EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 0
+
+BOS SINGLE   COLOR   LED   592 - 2 , 0 . 028 . 1 - 2800 . 0   30 - WATER   CLEAR   DIFFUSED ; SINGLE   WITH   BUILT - IN   DIODE . PANEL   MOUNT   EOS
+BOS 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS 30 ; 3   PPM / FIRST   YEAR ; 20 ; 0 . 002 - 10 / 80 - D3 . 1XH10 . 1   ( mm ) / D0 . 122XH0 . 398   ( inch ) - 12 ; EOS
+BOS 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL ; 6   0 . 003 . 10 / 80 . L11 . 4XB4 . 8XH3 . 5   ( mm ) / L0 . 449XB0 . 189XH0 . 138   ( inch ) ; 33 . EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+
+BOS 24 . 5   PPM / YEAR / 50   0 . 0015   100 , 30 . L13 . 0XB4 . 83XH5 . 0   ( mm ) / L0 . 512XB0 . 19XH0 . 197   ( inch ) / 18 ; EOS
+BOS 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL , 5   PPM / YEAR ; 50 , 10 - 60 , L3 . 2XB2 . 5XH0 . 8   ( mm ) / L0 . 126XB0 . 098XH0 . 031   ( inch ) / 18 / EOS
+BOS 1 2 2 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 0 1 0
+
+BOS 3 . 5   3   PPM / YEAR . 0 . 001 / 500 / 300   L11 . 7XB5 . 0XH4 . 5   ( mm ) / L0 . 461XB0 . 197XH0 . 177   ( inch ) / 16 , EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL / 40 . 5   PPM / YEAR ; 20 . 10 - 40 - L2 . 55XB2 . 05XH0 . 6   ( mm ) / L0 . 1XB0 . 081XH0 . 024   ( inch )   EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS 5   PPM / FIRST   YEAR . 30 . 0 . 002   100 , 50 - L6 . 0XB3 . 5XH1 . 3   ( mm ) / L0 . 236XB0 . 138XH0 . 051   ( inch )   33 . EOS
+BOS 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+
+BOS PARALLEL   -   FUNDAMENTAL - 20 - 25 . 0 . 002 / 50 ; 35 / L8 . 0XB3 . 2XH5 . 8   ( mm ) / L0 . 315XB0 . 126XH0 . 228   ( inch ) , 12 . EOS
+BOS 1 2 2 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+
+BOS 8   5   PPM / YEAR / 15 . 0 . 005   100 , 35 , L11 . 5XB5 . 0XH13 . 46   ( mm ) / L0 . 453XB0 . 197XH0 . 53   ( inch ) . 22 ; EOS
+BOS 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 0
+
+BOS 3   5   PPM / YEAR   15 , 0 . 01 - 100 . 200 - L11 . 5XB5 . 0XH13 . 46   ( mm ) / L0 . 453XB0 . 197XH0 . 53   ( inch )   3 . EOS
+BOS 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+
+BOS 44 / 5   PPM / YEAR   50 . 0 . 002   10   40 . L5 . 0XB3 . 2XH1 . 0   ( mm ) / L0 . 197XB0 . 126XH0 . 039   ( inch )   18 - EOS
+BOS 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+
+BOS SINGLE   COLOR   LED   9 . 9 ; 583 ; 2 - 0 . 007 . 1 . 2 . 1 - 50   WATER   CLEAR   DIFFUSED ; SINGLE   WITH   BUILT - IN   DIODE . RADIAL   MOUNT / EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 2 1 0 1 0 1 2 1 0
+
+BOS SINGLE   COLOR   LED - 9 . 9 / 520 ; 2 / 0 . 017 . 1 . 2400 . 0 - 45 ; WATER   CLEAR   SMOKE / SINGLE   WITH   BUILT - IN   DIODE . RADIAL   MOUNT , EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS SINGLE   COLOR   LED , 9 . 9 . 592 ; 2 , 0 . 016 . 1 . 2800 . 0   30 / WATER   CLEAR   DIFFUSED   SINGLE   WITH   BUILT - IN   DIODE - RADIAL   MOUNT - EOS
+BOS 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 0 1 2 1 2 1 2 1 2 1 0 1 2 1 0 EOS
+translation: 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 0 1 0
+
+BOS 14 . 3181 ; 5   PPM / FIRST   YEAR ; 15   0 . 0025 ; 100 / 25   L11 . 5XB5 . 0XH13 . 46   ( mm ) / L0 . 453XB0 . 197XH0 . 53   ( inch )   EOS
+BOS 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+
+BOS PARALLEL   -   FUNDAMENTAL - 16 . 999 ; 30 / 0 . 005 ; 1000 ; 50 / L12 . 5XB4 . 85XH4 . 0   ( mm ) / L0 . 492XB0 . 191XH0 . 157   ( inch ) / 20 - EOS
+BOS 1 2 2 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+
+BOS 30 . 01 - 5   PPM / YEAR   10 . 0 . 003 ; 10   100 / L12 . 5XB4 . 95XH5 . 18   ( mm ) / L0 . 492XB0 . 195XH0 . 204   ( inch ) ; 20   EOS
+BOS 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 1 0 1 2 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS SERIES   -   FUNDAMENTAL . 15 . 999 . 5   PPM / FIRST   YEAR ; 0 . 0025 ; 50 ; L11 . 4XB4 . 7XH3 . 3   ( mm ) / L0 . 449XB0 . 185XH0 . 13   ( inch )   EOS
+BOS 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS PARALLEL   -   3RD   OVERTONE - 5   PPM / YEAR   100 - 0 . 005   10   L5 . 0XB3 . 2XH1 . 0   ( mm ) / L0 . 197XB0 . 126XH0 . 039   ( inch ) ; 6 , EOS
+BOS 1 2 2 2 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 0 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL , 0 . 17 . 5   PPM / YEAR . 2000 - 0 . 0071   3 , L8 . 0XB3 . UNK . 9   ( mm ) / L0 . 315XB0 . UNK . 075   ( inch ) ; EOS
+BOS 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL - 3   PPM / YEAR . 8 . 0E - 4 . 10 , 150 / L3 . 2XB2 . 5XH0 . 75   ( mm ) / L0 . 126XB0 . 098XH0 . 03   ( inch ) , 18   EOS
+BOS 1 2 2 2 1 0 1 2 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SERIES   -   FUNDAMENTAL / 6 . 5   PPM / YEAR / 20   0 . 0015 , 100 - 100 . L11 . 5XB5 . 0XH3 . 5   ( mm ) / L0 . 453XB0 . 197XH0 . 138   ( inch ) / EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS PARALLEL   -   3RD   OVERTONE / 70 . 000001 . 30 / 0 . 01 . 100 . 70   L11 . 35XB4 . 65XH3 . 6   ( mm ) / L0 . 447XB0 . 183XH0 . 142   ( inch ) - 22 . EOS
+BOS 1 2 2 2 1 2 1 0 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 2 1 2 1 0 1 2 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1
+
+BOS PARALLEL   -   FUNDAMENTAL . 7 . 999 / 5   PPM / FIRST   YEAR / 15 , 0 . 01   L11 . 5XB5 . 0XH13 . 46   ( mm ) / L0 . 453XB0 . 197XH0 . 53   ( inch ) / 10 / EOS
+BOS 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL , 10   5   PPM / YEAR   30 ; 0 . 003   1000 . 70 ; L10 . 8XB4 . 47XH2 . 5   ( mm ) / L0 . 425XB0 . 176XH0 . 098   ( inch ) - 9   EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL   40   1   PPM / FIRST   YEAR / 10   0 . 003   10 / 20 ; L2 . 5XB2 . 0XH0 . 55   ( mm ) / L0 . 098XB0 . 079XH0 . 022   ( inch ) . EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 EOS
+translation: 1 2 2 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL / 32   3   PPM / YEAR / 25 - 0 . 001 . 10 / 45   L1 . UNK . 0XH0 . 35   ( mm ) / L0 . UNK . UNK . 014   ( inch ) ; 7 , EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL , 10 , 5   PPM / YEAR , 10 - 0 . 002   100 . 150 - L3 . 2XB2 . 5XH0 . 7   ( mm ) / L0 . 126XB0 . 098XH0 . 028   ( inch ) - 7 , EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL   6 - 5   PPM / YEAR ; 20   0 . 001 . 1000 ; 120 / L13 . 0XB4 . 8XH5 . 0   ( mm ) / L0 . 512XB0 . 189XH0 . 197   ( inch ) , 18 ; EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL / 8 . 5   PPM / YEAR - 50 / 0 . 005 - 100 ; 80 , L11 . 5XB5 . 0XH3 . 5   ( mm ) / L0 . 453XB0 . 197XH0 . 138   ( inch ) ; 33 / EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL . 3   PPM / FIRST   YEAR . 15 ; 0 . 01 , 10 , 35 - L3 . 2XB2 . 5XH0 . 8   ( mm ) / L0 . 126XB0 . 098XH0 . 031   ( inch ) . 10 , EOS
+BOS 1 2 2 2 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PARALLEL   -   3RD   OVERTONE ; 5   PPM / YEAR , 15 - 0 . 01 , 1000 - 100 , L10 . 8XB4 . 47XH2 . 1   ( mm ) / L0 . 425XB0 . 176XH0 . 083   ( inch ) / 18 , EOS
+BOS 1 2 2 2 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 2 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS SERIES   -   7TH   OVERTONE . 200 , 3   PPM / FIRST   YEAR ; 15 / 0 . 0025   1000 / 140   L7 . 8XB3 . 1XH4 . 7   ( mm ) / L0 . 307XB0 . 122XH0 . 185   ( inch ) / EOS
+BOS 1 2 2 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 EOS
+translation: 1 2 2 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL   16 ; 5   PPM / FIRST   YEAR ; 15 / 0 . 0035 - 10 . 50 . L5 . 0XB3 . 2XH1 . 3   ( mm ) / L0 . 197XB0 . 126XH0 . 051   ( inch ) , 8 , EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL . 24 . 01 , 5   PPM / YEAR - 15   0 . 01 , 100 , 40 - L11 . 4XB4 . 7XH4 . 2   ( mm ) / L0 . 449XB0 . 185XH0 . 165   ( inch ) . 18 , EOS
+BOS 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0
+
+BOS PARALLEL   -   3RD   OVERTONE / 24 . 545454   5   PPM / YEAR . 20 ; 0 . 005 . 10 , L5 . 0XB3 . 2XH1 . 3   ( mm ) / L0 . 197XB0 . 126XH0 . 051   ( inch ) / 12 , EOS
+BOS 1 2 2 2 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL   30   2   PPM / FIRST   YEAR . 10 / 0 . 005   10 . 70 , L2 . 5XB2 . 0XH0 . 6   ( mm ) / L0 . 098XB0 . 079XH0 . 024   ( inch ) . 4 - EOS
+BOS 1 2 2 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL , 26 . 9 . 5   PPM / YEAR ; 50 ; 0 . 004 , 50 . 40 ; L7 . 9XB3 . 2XH6 . 0   ( mm ) / L0 . 311XB0 . 126XH0 . 236   ( inch ) / 8 ; EOS
+BOS 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL - 6 . 999 / 5   PPM / FIRST   YEAR ; 20   0 . 005 . 100 , 35 . L11 . 35XB4 . 65XH2 . 5   ( mm ) / L0 . 447XB0 . 183XH0 . 098   ( inch ) / 32 / EOS
+BOS 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0 1 0 1 0
+
+BOS PARALLEL   -   3RD   OVERTONE - 57 . 6 / 5   PPM / YEAR   30   0 . 01 , 10   100 , L5 . 0XB3 . 2XH1 . 3   ( mm ) / L0 . 197XB0 . 126XH0 . 051   ( inch ) - 24 , EOS
+BOS 1 2 2 2 1 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 2 1 0 1 2 1 0 1 2 1 2 1 0 1 0 1 0 1 2 1 0 1 0
+
+BOS PARALLEL   -   3RD   OVERTONE , 20 - 5   PPM / FIRST   YEAR - 15 ; 0 . 0015 . 100 - 40   L11 . 5XB5 . 0XH13 . 46   ( mm ) / L0 . 453XB0 . 197XH0 . 53   ( inch ) - 10 - EOS
+BOS 1 2 2 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL / 30 . 001 ; 5   PPM / FIRST   YEAR ; 30 . 0 . 005   50   25   L7 . 0XB4 . 1XH2 . 3   ( mm ) / L0 . 276XB0 . 161XH0 . 091   ( inch ) - 8 ; EOS
+BOS 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 0
+
+BOS PARALLEL   -   FUNDAMENTAL . 21 . 999 - 3   PPM / FIRST   YEAR / 50 / 0 . 003 ; 10 . 20   L7 . 0XB5 . 0XH1 . 8   ( mm ) / L0 . 276XB0 . 197XH0 . 071   ( inch ) . 12 - EOS
+BOS 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 0 1 2 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 2 1 0
+
+BOS PARALLEL   -   3RD   OVERTONE - 40 , 5   PPM / FIRST   YEAR , 5 - 0 . 002 - 100 / 80 / L11 . 5XB5 . 0XH3 . 2   ( mm ) / L0 . 453XB0 . 197XH0 . 126   ( inch ) . 16   EOS
+BOS 1 2 2 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 2 1 0 1 0 1 0 1 2 1 2 1 2 1 2 2 1 2 2 1 2 1 2 1 2 1 2 2 1 0 1 0 EOS
+translation: 1 2 2 2 1 2 1 0 1 0 1 2 1 2 1 2 1 0 1 0 1 0 1 0 1 0 1 2 1 0
+
