@@ -32,10 +32,10 @@ def greedy_decode(model, src, src_mask, start_symbol):
 def label_precision(ground_truth, pre):
     ground_truth = ground_truth[1:len(ground_truth)-1]
     length = min(len(ground_truth),len(pre))
-    TP = 0
-    FP = 0
-    TN = 0
-    FN = 0
+    TP = 0 #true positive
+    FP = 0 #false positive
+    TN = 0 #true negative
+    FN = 0 #false negative
     for i in range(length):
         if ground_truth[i] == '2' and pre[i] == '2':
             TP = TP + 1

@@ -42,5 +42,21 @@
 `python3 run.py --type predict`
 
 ## 数据描述
-源数据目录下的data1,data2,……,data10分别存有5万，10万，……，50万条芯片描述语句。test_data_1000和test_data_10000作为预测数据，分别存有10
-00条和10000条芯片描述数据。源数据具体信息如下图所示。result.txt文件用于存储不同数量数据训练后的模型进行预测时，模型的准确率。
+源数据目录下的data1,data2,……,data10分别存有5万，10万，……，50万条芯片描述语句。test_data_1000和test_data_10000作为预测数据，分别存有1000条和10000条芯片描述数据。源数据具体信息如下图所示。result.txt文件用于存储不同数量数据训练后的模型进行预测时，模型的准确率。
+![image](https://github.com/Brauntt/delimiter_prediction/raw/master/IMG/1.png)
+#### 训练数据生成规则
+我们将描述中的12个feature进行合并，每个feature之间插入一个随机分隔符。
+`Delimiter = [' ', '/', ',', ';', '-', '.']`
+合并结束后的字符串作为翻译任务中的source language。
+#### 分词规则
+分词原则为一句描述中一旦遇到符号（包括空格），就实施一次分词操作。
+`description = 'GENERAL PURPOSE INDUCTOR/39.0.'`
+`tokenized_description = ['GENERAL', ' ', 'PURPOSE', ' ', 'INDUCTOR', '/', '39', '.', '0', '.']`
+#### 编码原则
+我们将描述中所有数字或字母组成的字符串标为'1'，出现在feature中的符号标为'2'（即认为是有意义的符号）分割feature与feature的符号标为'0'。
+`description_index = ['1','2','1','2','1','0','1','0']`
+生成的编码将作为此次翻译任务中的target lauguage。
+
+## 模型评价方法
+将标记为‘2’的word定义为真，即为有意义的出现在描述中的标点符号；将标记为‘0’的word定义为假，即为用于分隔符的符号，包括【'  ' , ' / ' , ' , ' , ' ; ' , ' - ' , ' . '】。
+
