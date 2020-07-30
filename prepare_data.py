@@ -29,6 +29,9 @@ class PrepareData:
         self.dev_data = self.splitBatch(self.dev_en, self.dev_cn, args.batch_size)
 
     def load_data(self, path):
+        """
+        生成data并分词
+        """
         d1 = pd.read_pickle(path)
         en = []
         cn = []

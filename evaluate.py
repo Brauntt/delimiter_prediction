@@ -14,6 +14,9 @@ def log(data, timestamp):
     file.close()
 
 def greedy_decode(model, src, src_mask, start_symbol):
+    """
+    使用模型生成概率序列
+    """
     memory = model.encode(src, src_mask)
     max_len = src.shape[1] - 1
     ys = torch.ones(1, 1).fill_(start_symbol).type_as(src.data)
@@ -30,6 +33,9 @@ def greedy_decode(model, src, src_mask, start_symbol):
     return ys
 
 def label_precision(ground_truth, pre):
+    """
+    根据预测结果对每一次翻译进行评价
+    """
     ground_truth = ground_truth[1:len(ground_truth)-1]
     length = min(len(ground_truth),len(pre))
     TP = 0 #true positive
@@ -48,6 +54,9 @@ def label_precision(ground_truth, pre):
     return TP,FP,TN,FN
 
 def predict(data, model):
+    """
+    用户输入一条描述，使用现存模型对描述进行翻译
+    """
     des = input()
     des = des + ' '
     tokenize_des = feature_tokenize(des)
@@ -69,6 +78,9 @@ def predict(data, model):
     return translation
 
 def evaluate(data, model):
+    """
+    对完整测试数据集评价
+    """
     timestamp = time.time()
     with torch.no_grad():
         precision = np.zeros((len(data.dev_en), 4))
