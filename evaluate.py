@@ -5,6 +5,7 @@ import time
 from parser import args
 from torch.autograd import Variable
 from utils import subsequent_mask
+from desc_tokenizer import feature_tokenize
 
 def log(data, timestamp):
     file = open(f'log/log-{timestamp}.txt', 'a')
@@ -35,8 +36,6 @@ def label_precision(ground_truth, pre):
     FP = 0
     TN = 0
     FN = 0
-    TPR  = 0
-    FPR = 0
     for i in range(length):
         if ground_truth[i] == '2' and pre[i] == '2':
             TP = TP + 1
@@ -46,11 +45,28 @@ def label_precision(ground_truth, pre):
             FP = FP + 1
         if ground_truth[i] == '0' and pre[i] == '0':
             TN = TN + 1
-    # if ((TP + FN) != 0):
-    #     TPR = TP / (TP + FN)
-    # if ((FP + TN) != 0):
-    #     FPR = FP / (FP + TN)
     return TP,FP,TN,FN
+
+def predict(data, model):
+    des = input()
+    des = des + ' '
+    tokenize_des = feature_tokenize(des)
+    tokenize_des = ["BOS"] + tokenize_des + ["EOS"]
+    print(" ".join(tokenize_des))
+    src_index = [data.en_word_dict[w] for w in tokenize_des]
+    src = torch.from_numpy(np.array(src_index)).long().to(args.device)
+    src = src.unsqueeze(0)
+    src_mask = (src != 0).unsqueeze(-2)
+    out = greedy_decode(model, src, src_mask, start_symbol=data.cn_word_dict["BOS"])
+    translation = []
+    for j in range(1, out.size(1)):
+        sym = data.cn_index_dict[out[0, j].item()]
+        if sym != 'EOS':
+            translation.append(sym)
+        else:
+            break
+    print("pre %s" % " ".join(translation))
+    return translation
 
 def evaluate(data, model):
     timestamp = time.time()
@@ -63,7 +79,6 @@ def evaluate(data, model):
             cn_sent = " ".join([data.cn_index_dict[w] for w in data.dev_cn[i]])
             print("".join(cn_sent))
             log(cn_sent, timestamp)
-            print(data.dev_en[i])
             src = torch.from_numpy(np.array(data.dev_en[i])).long().to(args.device)
             src = src.unsqueeze(0)
             src_mask = (src != 0).unsqueeze(-2)

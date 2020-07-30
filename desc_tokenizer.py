@@ -49,10 +49,7 @@ def description_index(feature,col):
             index_description.append(index_initial[i])
             index_description.append([0])
     index_description = sum(index_description, [])
-    #     if index_description[-1] == 0:
-    #         del index_description[-1]
     index_description_new = [str(x) for x in index_description]
-    total_index = "".join(index_description_new)
     return index_description_new
 
 def description_generation_string(feature,col,delimiter):
@@ -62,17 +59,3 @@ def description_generation_string(feature,col,delimiter):
             des = des + feature.iloc[col,i]
             des = des + random.choice(delimiter)
     return des
-
-# def index_tokenize(index):
-#     tokenized = []
-#     word = ''
-#     for i in range(len(index)):
-#         if index[i] != '0' and index[i + 1] != '0':
-#             word = word + index[i]
-#         elif index[i] != '0' and index[i + 1] == '0':
-#             word = word + index[i]
-#             tokenized.append(word)
-#             word = ''
-#         elif index[i] == '0':
-#             tokenized.append('0')
-#     return tokenized

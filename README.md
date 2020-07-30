@@ -29,11 +29,18 @@
 - parser.py `参数.py`
 - utils.py `工具类.py`
 - run.py `入口文件.py`
+- desc_tokenizer.py `对芯片描述数据进行预处理，并生成与芯片描述相对应的index`
 - README.md `readme`
 
-
-## 训练
+#### 训练
 `python3 run.py`
 
-## 预测 (前提：训练过)
+#### 对多个芯片描述进行分隔符预测，并对模型进行评价 (前提：训练过)
 `python3 run.py --type evaluate`
+
+#### 对用户输入和单一芯片描述进行分隔符预测（前提：训练过）
+`python3 run.py --type predict`
+
+## 数据描述
+源数据目录下的data1,data2,……,data10分别存有5万，10万，……，50万条芯片描述语句。test_data_1000和test_data_10000作为预测数据，分别存有10
+00条和10000条芯片描述数据。源数据具体信息如下图所示。result.txt文件用于存储不同数量数据训练后的模型进行预测时，模型的准确率。

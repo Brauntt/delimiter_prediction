@@ -19,7 +19,7 @@ from model.generator import Generator
 from lib.criterion import LabelSmoothing
 from lib.optimizer import NoamOpt
 from train import train
-from evaluate import evaluate
+from evaluate import evaluate, predict
 
 def make_model(src_vocab, tgt_vocab, N = 6, d_model = 512, d_ff = 2048, h = 8, dropout = 0.1):
     c = copy.deepcopy
@@ -68,30 +68,11 @@ def main():
     if args.type == 'train':
         # 训练
         print(">>>>>>> start train")
-        # criterion = LabelSmoothing(args.tgt_vocab, padding_idx = 0, smoothing= 0.0)
-        # optimizer = NoamOpt(args.d_model, 1, 2000, torch.optim.Adam(model.parameters(), lr=0, betas=(0.9,0.98), eps=1e-9))
-        for data in dataList:
-            args.src_vocab = len(data.en_word_dict)
-            args.tgt_vocab = len(data.cn_word_dict)
-            print("src_vocab %d" % args.src_vocab)
-            print("tgt_vocab %d" % args.tgt_vocab)
-
-            # 初始化模型
-            model = make_model(
-                                args.src_vocab,
-                                args.tgt_vocab,
-                                args.layers,
-                                args.d_model,
-                                args.d_ff,
-                                args.h_num,
-                                args.dropout
-                            )
-
-            criterion = LabelSmoothing(args.tgt_vocab, padding_idx=0, smoothing=0.0)
-            optimizer = NoamOpt(args.d_model, 1, 2000,
-                                torch.optim.Adam(model.parameters(), lr=0, betas=(0.9, 0.98), eps=1e-9))
-            train(data, model, criterion, optimizer)
-            print("<<<<<<< finished train")
+        criterion = LabelSmoothing(args.tgt_vocab, padding_idx=0, smoothing=0.0)
+        optimizer = NoamOpt(args.d_model, 1, 2000,
+                            torch.optim.Adam(model.parameters(), lr=0, betas=(0.9, 0.98), eps=1e-9))
+        train(data, model, criterion, optimizer)
+        print("<<<<<<< finished train")
     elif args.type == "evaluate":       # 预测
             # 先判断模型有没有训练好(前提)
             if os.path.exists(args.save_file):
@@ -106,27 +87,22 @@ def main():
                 FN_total = precision.sum(axis = 0)[3]
                 TPR = TP_total / (TP_total + FN_total)
                 TNR = TN_total / (TN_total + FP_total)
-                # mprecision = np.ma.masked_array(precision, mask=precision == 0)
-                # x = mprecision.mean(axis = 0)
                 print('total true positive amount: %.3f, total false negative amount: %.3f'%(TP_total,FN_total))
                 print('total true negative amount: %.3f, total false positive amount: %.3f'%(TN_total,FP_total))
                 print('symbol within feature TPR: %.3f, delimiter TNR: %.3f'%(TPR,TNR))
-                # np.savetxt("/Users/wangyihao/Pycharm/transformer-simple-master_new/data/result.txt",x.data, fmt='%10.5f',delimiter=',')
-                # print('Number or Alphabet TPR: %.3f, Number or Alphabet FPR: %.3f' % (x.data[1, 0], x.data[1, 1]))
-                # print('symbol within feature TPR: %.3f, symbol within feature FPR: %.3f' % (x.data[2, 0], x.data[2, 1]))
-                # plt.figure(1)
-                # plt.scatter(precision[:,0,1],precision[:,0,0],label = 'delimiter')
-                # plt.scatter(precision[:,1,1],precision[:,1,0],label = 'Number or Alphabet')
-                # plt.scatter(precision[:,2,1],precision[:,2,0], label = 'symbol within feature')
-                # plt.legend()
-                # plt.xlabel('False Positive Rate')
-                # plt.ylabel('True Positive Rate')
-                # plt.show()
                 print("<<<<<<< finished evaluate")
             else:
                 print("Error: pleas train before evaluate")
-        # else:
-        #     print("Error: please select type within [train / evaluate]")
+    elif args.type == "predict": #输入特征并预测
+        if os.path.exists(args.save_file):
+            # 加载模型
+            model.load_state_dict(torch.load(args.save_file))
+            # 开始预测
+            print(">>>>>>> start predict")
+            translation = predict(data,model)
+            print("<<<<<<< finished predict")
+    else:
+            print("Error: please select type within [train / evaluate / predict]")
 
 if __name__ == "__main__":
     main()
