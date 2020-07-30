@@ -38,7 +38,7 @@
 #### 对多个芯片描述进行分隔符预测，并对模型进行评价 (前提：训练过)
 `python3 run.py --type evaluate`
 
-#### 对用户输入和单一芯片描述进行分隔符预测（前提：训练过）
+#### 对用户输入的单一芯片描述进行分隔符预测（前提：训练过）
 `python3 run.py --type predict`
 
 ## 数据描述
@@ -46,7 +46,9 @@
 ![image](https://github.com/Brauntt/delimiter_prediction/raw/master/IMG/1.png)
 #### 训练数据生成规则
 我们将描述中的12个feature进行合并，每个feature之间插入一个随机分隔符。
+
 `Delimiter = [' ', '/', ',', ';', '-', '.']`
+
 合并结束后的字符串作为翻译任务中的source language。
 #### 分词规则
 分词原则为一句描述中一旦遇到符号（包括空格），就实施一次分词操作。
@@ -64,10 +66,10 @@
 
 ![image](https://github.com/Brauntt/delimiter_prediction/raw/master/IMG/2.png)
 
-- 真实值为2，预测为2，TP➕1
-- 真实值为2，预测为0，FN➕1
-- 真实值为0，预测为0，TN➕1
-- 真实值为2，预测为2，FP➕1
+- 真实值为2，预测为2，TP+1
+- 真实值为2，预测为0，FN+1
+- 真实值为0，预测为0，TN+1
+- 真实值为2，预测为2，FP+1
 
 预测结束后，我们将每一组翻译中得到的TP、FN、TN、FP四个参数累加，得到完整预测数据集的相应参数。最终，通过计算真正率(True Positive Rate)和真负率(False Positive Rate)来评价模型预测结果，计算方法如下图所示。
 
