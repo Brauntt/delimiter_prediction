@@ -85,8 +85,8 @@ def main():
                 FP_total = precision.sum(axis = 0)[1]
                 TN_total = precision.sum(axis = 0)[2]
                 FN_total = precision.sum(axis = 0)[3]
-                TPR = TP_total / (TP_total + FN_total)
-                TNR = TN_total / (TN_total + FP_total)
+                TPR = TP_total / (TP_total + FN_total) #计算真正率
+                TNR = TN_total / (TN_total + FP_total) #计算真负率
                 print('total true positive amount: %.3f, total false negative amount: %.3f'%(TP_total,FN_total))
                 print('total true negative amount: %.3f, total false positive amount: %.3f'%(TN_total,FP_total))
                 print('symbol within feature TPR: %.3f, delimiter TNR: %.3f'%(TPR,TNR))
